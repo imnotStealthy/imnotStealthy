@@ -1,58 +1,62 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&fontColor=ffffff)
+# ` [ R E D A C T E D ] `
 
-# REDACTED
+**_Building in the dark._**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Vibecodin'+by+excellence;Claude+Code+—+skills%2C+hooks%2C+agents%2C+MCP;Building+in+the+dark.;Ship+fast.+Think+deep.+Build+different.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=%3E+run+protocol_+%2F+join+the+war" alt="typing" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=AI+in+code+will+be+the+future.;run+protocol_+%2F+join+the+war)](https://git.io/typing-svg)
-
-</div>
-
----
-
+```text
 I don't just write code. I orchestrate it.
 Blending raw engineering with AI-driven intuition to ship fast, think deep, and build different.
-
----
-
-- **Coding** — when precision matters
-- **Vibecodin'** — when speed matters
-- **Claude Code** — skills, hooks, MCP servers, agents
-- **Gemini CLI** — AI-powered workflows
-- **Codex** — security auditing
-
----
-
-**Currently building** &nbsp;·&nbsp; AI tooling, Claude integrations & automation @ [StealthyLabs](https://stealthylabs.eu)
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-000000?style=flat-square&logo=googlegemini&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex_(Security)-000000?style=flat-square&logo=openai&logoColor=white)
-
----
-
-**Certifications**
-
-<p>
-  <img src="https://img.shields.io/badge/Google_AI_Professional-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google AI" /><br>
-  <img src="https://img.shields.io/badge/Claude_Code_in_Action-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /><br>
-  <img src="https://img.shields.io/badge/Building_with_Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" /><br>
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" /><br>
-  <img src="https://img.shields.io/badge/AI_Engineer_for_Developers-000000?style=for-the-badge&logo=datacamp&logoColor=white" alt="AI Engineer" />
-</p>
-
----
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/StealthyLabsHQ-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ)
-[![Discord](https://img.shields.io/badge/stealthylabs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/0)
-[![TikTok](https://img.shields.io/badge/stealthylabs-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@stealthylabs)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer)
-
+```
 </div>
+
+---
+
+### `0x01` ⸻ `CURRENT_DIR`
+> **Objective** : AI tooling, Claude integrations & automation @ [**StealthyLabs**](https://stealthylabs.eu)
+
+### `0x02` ⸻ `CAPABILITIES`
+
+<kbd>&nbsp;💻 CODING&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *When precision matters.* <br><br>
+<kbd>&nbsp;⚡ VIBECODIN'&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *When speed matters.* <br><br>
+<kbd>&nbsp;🧠 CLAUDE CODE&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *Skills, hooks, MCP servers, agents.* <br><br>
+<kbd>&nbsp;✨ GEMINI CLI&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *AI-powered workflows.* <br><br>
+<kbd>&nbsp;🔒 CODEX&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *Security auditing.*
+
+<br>
+
+### `0x03` ⸻ `TECH_STACK`
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" /> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> &nbsp;
+<img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> &nbsp;
+<img src="https://img.shields.io/badge/Gemini_CLI-111111?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini CLI" /> &nbsp;
+<img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+
+<br>
+
+### `0x04` ⸻ `CLEARANCE_LEVEL`
+
+<details>
+<summary><b>[ CLICK TO DECRYPT CERTIFICATIONS ]</b></summary>
+<br>
+
+> ✦ `Google AI Professional`<br>
+> ✦ `Claude Code in Action`<br>
+> ✦ `Building with Claude API`<br>
+> ✦ `Google Cybersecurity`<br>
+> ✦ `AI Engineer for Developers`
+
+</details>
+
+<br>
+
+### `0x05` ⸻ `COMMS_LINK`
+
+[![X](https://img.shields.io/badge/StealthyLabsHQ-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ) &nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/stealthylabs-111111?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/0) &nbsp;&nbsp;
+[![TikTok](https://img.shields.io/badge/stealthylabs-111111?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@stealthylabs)
+
+---

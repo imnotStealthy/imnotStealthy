@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Vibecodin'+by+excellence;Claude+Code+—+skills%2C+hooks%2C+agents%2C+MCP;Building+in+the+dark.;Ship+fast.+Think+deep.+Build+different.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=AI+in+code+will+be+the+future.;run+protocol_+%2F+join+the+war)](https://git.io/typing-svg)
+
 </div>
 
 ---

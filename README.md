@@ -38,7 +38,7 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 <div align="center">
 
 [![X](https://img.shields.io/badge/StealthyLabsHQ-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ)
-[![Discord](https://img.shields.io/badge/stealthylabs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/stealthylabs)
+[![Discord](https://img.shields.io/badge/stealthylabs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/0)
 [![TikTok](https://img.shields.io/badge/stealthylabs-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@stealthylabs)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer)

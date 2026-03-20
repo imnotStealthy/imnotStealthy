@@ -18,6 +18,8 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 - **Coding** — when precision matters
 - **Vibecodin'** — when speed matters
 - **Claude Code** — skills, hooks, MCP servers, agents
+- **Gemini CLI** — AI-powered workflows
+- **Codex** — security auditing
 
 ---
 
@@ -26,6 +28,8 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-000000?style=flat-square&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex_(Security)-000000?style=flat-square&logo=openai&logoColor=white)
 
 ---
 

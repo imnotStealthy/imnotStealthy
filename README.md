@@ -17,6 +17,8 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 ### `0x01` ⸻ `CURRENT_DIR`
 > **Objective** : AI tooling, Claude integrations & automation @ [**StealthyLabs**](https://stealthylabs.eu)
 
+<br>
+
 ### `0x02` ⸻ `CAPABILITIES`
 
 <kbd>&nbsp;💻 CODING&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *When precision matters.* <br><br>

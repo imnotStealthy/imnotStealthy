@@ -7,18 +7,12 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 
 ---
 
-## Stack & Approach
-
 - **Coding** — when precision matters
 - **Vibecodin'** — when speed matters
 - **Claude Code** — always
 
 ---
 
-## Find me
-
-[![X](https://img.shields.io/badge/X-StealthyLabsHQ-000000?style=flat&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ)
-
-[![Discord](https://img.shields.io/badge/Discord-stealthylabs-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/stealthylabs)
-
-[![TikTok](https://img.shields.io/badge/TikTok-stealthylabs-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@stealthylabs)
+[![X](https://img.shields.io/badge/StealthyLabsHQ-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ)
+[![Discord](https://img.shields.io/badge/stealthylabs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/stealthylabs)
+[![TikTok](https://img.shields.io/badge/stealthylabs-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@stealthylabs)

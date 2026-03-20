@@ -35,6 +35,16 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 
 ---
 
+**Certifications**
+
+![Google AI](https://img.shields.io/badge/Google_AI_Professional-000000?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code_in_Action-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Building_with_Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-000000?style=flat-square&logo=google&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer_for_Developers-000000?style=flat-square&logo=datacamp&logoColor=white)
+
+---
+
 <div align="center">
 
 [![X](https://img.shields.io/badge/StealthyLabsHQ-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ)

@@ -9,7 +9,13 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 
 - **Coding** — when precision matters
 - **Vibecodin'** — when speed matters
-- **Claude Code** — always
+- **Claude Code** — skills, hooks, MCP servers, agents
+
+---
+
+**Currently building** &nbsp;·&nbsp; AI tooling, Claude integrations & automation @ [StealthyLabs](https://stealthylabs.eu)
+
+**Stack** &nbsp;·&nbsp; Python · JavaScript
 
 ---
 

@@ -15,7 +15,8 @@ Blending raw engineering with AI-driven intuition to ship fast, think deep, and 
 
 **Currently building** &nbsp;·&nbsp; AI tooling, Claude integrations & automation @ [StealthyLabs](https://stealthylabs.eu)
 
-**Stack** &nbsp;·&nbsp; Python · JavaScript
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 
 ---
 

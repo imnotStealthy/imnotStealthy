@@ -1,64 +1,122 @@
 <div align="center">
 
-# ` [ R E D A C T E D ] `
+<pre>
+   ██████╗██╗      █████╗ ███████╗███████╗██╗███████╗██╗███████╗██████╗ 
+  ██╔════╝██║     ██╔══██╗██╔════╝██╔════╝██║██╔════╝██║██╔════╝██╔══██╗
+  ██║     ██║     ███████║███████╗███████╗██║█████╗  ██║█████╗  ██║  ██║
+  ██║     ██║     ██╔══██║╚════██║╚════██║██║██╔══╝  ██║██╔══╝  ██║  ██║
+  ╚██████╗███████╗██║  ██║███████║███████║██║██║     ██║███████╗██████╔╝
+   ╚═════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+</pre>
 
-**_Building in the dark._**
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=ESTABLISHING+SECURE+CONNECTION...;DECRYPTING+PAYLOAD...;AUTHORIZATION+ACCEPTED.;LOADING+DOSSIER+DOC-2026-SL84...;OVERRIDING+CENSORSHIP+PROTOCOLS...;[+CONNECTION+LIVE+]" alt="Terminal Boot Sequence" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=%3E+run+protocol_+%2F+join+the+war" alt="typing" />
+<br>
+<img src="https://img.shields.io/badge/EXECUTIVE_ORDER_████-UNAUTHORIZED_REPRODUCTION_PROHIBITED-8B0000?style=for-the-badge" alt="Warning" />
 
-```text
-I don't just write code. I orchestrate it.
-Blending raw engineering with AI-driven intuition to ship fast, think deep, and build different.
-```
+<br><br>
+
+> *I don't just write code. I orchestrate it.*  
+> *Blending raw engineering with AI-driven intuition to ship fast, think deep, and build different.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=StealthyLabsHQ&label=ACCESSES+LOGGED&color=8B0000&style=flat-square" alt="Access Counter" />
+
 </div>
 
 ---
 
-### `0x01` ⸻ `CURRENT_DIR`
-> **Objective** : AI tooling, Claude integrations & automation @ [**StealthyLabs**](https://stealthylabs.eu)
-
-<br>
-
-### `0x02` ⸻ `CAPABILITIES`
-
-<kbd>&nbsp;💻 CODING&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *When precision matters.* <br><br>
-<kbd>&nbsp;⚡ VIBECODIN'&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *When speed matters.* <br><br>
-<kbd>&nbsp;🧠 CLAUDE CODE&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *Skills, hooks, MCP servers, agents.* <br><br>
-<kbd>&nbsp;✨ GEMINI CLI&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *AI-powered workflows.* <br><br>
-<kbd>&nbsp;🔒 CODEX&nbsp;</kbd> &nbsp;&#x2022;&nbsp; *Security auditing.*
-
-<br>
-
-### `0x03` ⸻ `TECH_STACK`
-
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" /> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> &nbsp;
-<img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> &nbsp;
-<img src="https://img.shields.io/badge/Gemini_CLI-111111?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini CLI" /> &nbsp;
-<img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-
-<br>
-
-### `0x04` ⸻ `CLEARANCE_LEVEL`
-
 <details>
-<summary><b>[ CLICK TO DECRYPT CERTIFICATIONS ]</b></summary>
+<summary><b>▶ [ CLICK TO DECLASSIFY SECTION I : SUBJECT PROFILE ]</b></summary>
 <br>
 
-> ✦ `Google AI Professional`<br>
-> ✦ `Claude Code in Action`<br>
-> ✦ `Building with Claude API`<br>
-> ✦ `Google Cybersecurity`<br>
-> ✦ `AI Engineer for Developers`
+| FIELD | DATA INGRESS | STATUS |
+| :--- | :--- | :---: |
+| **CODENAME** | `[REDACTED]` | <img src="https://img.shields.io/badge/-ACTIVE-000000?style=flat-square&color=00FF41" /> |
+| **OPERATIONAL UNIT** | StealthyLabs | <img src="https://img.shields.io/badge/-ACTIVE-000000?style=flat-square&color=00FF41" /> |
+| **LOCATION** | ~~█████████~~ `[ E̶X̷P̶U̷N̷G̶E̷D̷ ]` | <img src="https://img.shields.io/badge/-UNKNOWN-000000?style=flat-square&color=8B0000" /> |
+| **ACADEMIC REC.** | ~~████████████ Univ.~~ `NO MATCH` | <img src="https://img.shields.io/badge/-UNKNOWN-000000?style=flat-square&color=8B0000" /> |
+| **ASSET VALUE** | HIGH — STRATEGIC PRIORITY | <img src="https://img.shields.io/badge/-CONFIRMED-000000?style=flat-square&color=00FF41" /> |
+
+> *Note: Subject operates with complete anonymity. Digital footprint outside of StealthyLabs parameters is zero.*
 
 </details>
 
 <br>
 
-### `0x05` ⸻ `COMMS_LINK`
+<details>
+<summary><b>▶ [ CLICK TO DECLASSIFY SECTION II : OPERATIONAL CAPABILITIES ]</b></summary>
+<br>
 
-[![X](https://img.shields.io/badge/StealthyLabsHQ-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/StealthyLabsHQ) &nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/stealthylabs-111111?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/0) &nbsp;&nbsp;
-[![TikTok](https://img.shields.io/badge/stealthylabs-111111?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@stealthylabs)
+| DOMAIN | VERIFIED CAPABILITY |
+| :--- | :--- |
+| **Architecture** | Deployment of advanced Model Context Protocol (MCP) servers. |
+| **Prototyping** | High-velocity code generation under zero-visibility conditions. |
+| **Mitigation** | Proactive neutralization of attack vectors and architectural vulnerabilities. |
+| **Automation** | Engineering of AI-driven pipelines and autonomous agent workflows. |
+| **Infiltration** | Subject frequently initiates ████████████ bypassing standard firewalls. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>▶ [ CLICK TO DECLASSIFY SECTION III : TOOLS & ASSETS ]</b></summary>
+<br>
+
+> *Asset utilization confirmed via intercepted packets.*
+
+| TOOL | CLASSIFICATION | DEPLOYMENT VECTOR |
+| :--- | :---: | :--- |
+| **PYTHON** | <img src="https://img.shields.io/badge/UNRESTRICTED-000000?style=flat-square&color=00FF41" /> | Core scripting, logic formulation, automated data manipulation. |
+| **JAVASCRIPT** | <img src="https://img.shields.io/badge/UNRESTRICTED-000000?style=flat-square&color=00FF41" /> | Frontend/backend deployment and systemic integration. |
+| **CLAUDE CODE** | <img src="https://img.shields.io/badge/LEVEL_5-000000?style=flat-square&color=8B0000" /> | Deployment of agentic autonomous workflows and reasoning models. |
+| **GEMINI CLI** | <img src="https://img.shields.io/badge/LEVEL_5-000000?style=flat-square&color=8B0000" /> | Rapid pipeline iteration and secondary AI augmentation. |
+| **CODEX** | <img src="https://img.shields.io/badge/RESTRICTED-000000?style=flat-square&color=C0C0C0" /> | Deep syntax generation and security vulnerability auditing. |
+
+</details>
+
+<br>
+
+<details>
+<summary><b>▶ [ CLICK TO DECLASSIFY SECTION IV : CLEARANCES ]</b></summary>
+<br>
+
+> *Formal vetting procedures confirm the following acquired qualifications. Documentation physically verified.*
+
+- 🪪 **Google Cybersecurity** ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 **Anthropic Claude API** ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 **DataCamp AI Engineering** ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 ~~██████████████████████~~ ⸻ <img src="https://img.shields.io/badge/RECORDS-E̶X̷P̶U̷N̶G̶E̷D-000000?style=flat-square&color=8B0000" />
+
+</details>
+
+<br>
+
+<details>
+<summary><b>▶ [ CLICK TO DECLASSIFY SECTION V : COMMUNICATION CHANNELS ]</b></summary>
+<br>
+
+> *Signals Intelligence (SIGINT) is tracking the subject across these nodes.*
+
+| NODE | STATUS | ACCESS TERMINAL |
+| :--- | :---: | :--- |
+| **X (Twitter)** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [StealthyLabsHQ](https://x.com/StealthyLabsHQ) |
+| **Discord** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [StealthyLabs](https://discord.com/users/0) |
+| **Twitch** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [stealthylabs](https://twitch.tv/stealthylabs) |
+| **TikTok** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [@stealthylabs](https://tiktok.com/@stealthylabs) |
+
+</details>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&pause=2000&color=888888&background=00000000&center=true&vCenter=true&width=450&lines=FILE+STATUS%3A...;FILE+STATUS%3A+ACTIVE;CLASSIFICATION%3A+TOP+SECRET+%2F%2F+SI+%2F%2F+NOFORN;LAST+REVIEWED%3A+%5BREDACTED%5D;CONNECTION+SECURE." alt="Footer Animation" />
+
+<br>
+
+<sub>© DOSSIER DOC-2026-SL84 — ALL RIGHTS RESERVED — UNAUTHORIZED ACCESS WILL BE PROSECUTED</sub>
+
+</div>

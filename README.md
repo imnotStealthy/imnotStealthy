@@ -85,10 +85,12 @@
 
 > *Formal vetting procedures confirm the following acquired qualifications. Documentation physically verified.*
 
-- 🪪 **Google Cybersecurity** ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 **Anthropic Claude API** ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 **DataCamp AI Engineering** ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 ~~██████████████████████~~ ⸻ <img src="https://img.shields.io/badge/RECORDS-E̶X̷P̶U̷N̶G̶E̷D-000000?style=flat-square&color=8B0000" />
+- 🪪 [**Google Cybersecurity**](https://www.coursera.org/account/accomplishments/specialization/BT9A8BGITTC8) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 [**Anthropic Claude API — Fundamentals**](https://verify.skilljar.com/c/ztvbm76um6he) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 [**Anthropic Claude API — Advanced**](https://verify.skilljar.com/c/bvka7onrte8u) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 [**Anthropic Claude API — Extended**](https://verify.skilljar.com/c/28kv5x7izkrd) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 [**DataCamp AI Engineering**](https://www.datacamp.com/certificate/AIEDA0011599467581) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
+- 🪪 [**Google AI Professional Certificate**](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
 
 </details>
 

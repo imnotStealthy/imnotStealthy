@@ -26,9 +26,23 @@
 
 ---
 
-## Mission Brief
+## [ TERMINAL INTAKE ]
 
 I build fast, opinionated systems with an AI-first profile: skills, agent workflows, MCP infrastructure, and secure automation.
+
+```bash
+$ whoami
+StealthyLabsHQ
+
+$ active_profile
+AI-first builder // skill engineer // MCP operator // security-minded
+
+$ primary_agents
+Claude Code / Codex / Gemini CLI
+
+$ codex_status
+100% operational mastery
+```
 
 This profile is not meant to read like generic developer bio. It should feel like entry point into operating model:
 
@@ -37,7 +51,7 @@ This profile is not meant to read like generic developer bio. It should feel lik
 - secure early, not after launch
 - make tooling feel sharp, deliberate, and alive
 
-## Identity Matrix
+## [ IDENTITY MATRIX ]
 
 | FIELD | VALUE | STATUS |
 | :--- | :--- | :---: |
@@ -47,7 +61,15 @@ This profile is not meant to read like generic developer bio. It should feel lik
 | CODEX STATUS | 100% operational mastery | `VERIFIED` |
 | SIGNAL | fast builds, deep iteration, zero fluff | `CONFIRMED` |
 
-## Core Focus
+## [ AGENT STACK ]
+
+| AGENT | OPERATIONAL ROLE | STATUS |
+| :--- | :--- | :---: |
+| Claude Code | terminal-native skills, workflows, autonomous build loops | `ACTIVE` |
+| Codex | deep execution, debugging, shipping, security review | `VERIFIED` |
+| Gemini CLI | research acceleration, second-pass reasoning, contrast checks | `ACTIVE` |
+
+## [ CORE FOCUS ]
 
 | DOMAIN | CAPABILITY |
 | :--- | :--- |
@@ -58,7 +80,16 @@ This profile is not meant to read like generic developer bio. It should feel lik
 | Automation | turning repetitive ops into reliable pipelines and operator tooling |
 | Prototyping | high-speed implementation without losing structure or taste |
 
-## Toolchain
+## [ SKILL FORGE ]
+
+```text
+> design operator-grade skills
+> tighten prompt + workflow behavior
+> build reusable terminal tooling
+> turn agent stacks into real leverage
+```
+
+## [ LOADOUT ]
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -70,7 +101,7 @@ This profile is not meant to read like generic developer bio. It should feel lik
   <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
-## Verified Clearances
+## [ VERIFIED CLEARANCES ]
 
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/BT9A8BGITTC8)
 - [Anthropic Claude API - Fundamentals](https://verify.skilljar.com/c/ztvbm76um6he)
@@ -79,7 +110,7 @@ This profile is not meant to read like generic developer bio. It should feel lik
 - [DataCamp AI Engineering](https://www.datacamp.com/certificate/AIEDA0011599467581)
 - [Google AI Professional Certificate](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile)
 
-## Terminal Doctrine
+## [ TERMINAL DOCTRINE ]
 
 ```text
 > build systems, not noise

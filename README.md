@@ -5,24 +5,24 @@
 <h1>STEALTHYLABS // PROFILE DOSSIER</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/AI_SYSTEMS-ONLINE-111111?style=for-the-badge&labelColor=111111&color=FF3B3B" alt="AI Systems" />
-  <img src="https://img.shields.io/badge/MCP_INFRA-DEPLOYED-111111?style=for-the-badge&labelColor=111111&color=8B0000" alt="MCP Infra" />
-  <img src="https://img.shields.io/badge/CLAUDE_CODE-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=D97706&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OPENAI_%2F_CODEX-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=0A0A0A&logo=openai&logoColor=white" alt="OpenAI / Codex" />
-  <img src="https://img.shields.io/badge/SECURITY-MINDED-111111?style=for-the-badge&labelColor=111111&color=2EA043" alt="Security" />
-  <img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=6E7681" alt="Automation" />
+  <code>AI SYSTEMS :: ONLINE</code>
+  <code>MCP INFRA :: DEPLOYED</code>
+  <code>CLAUDE CODE :: OPERATIONAL</code>
+  <code>OPENAI / CODEX :: OPERATIONAL</code>
+  <code>SECURITY :: MINDED</code>
+  <code>AUTOMATION :: ACTIVE</code>
 </p>
 
 > Building AI-first systems, terminal-native skills, MCP servers, and operator tooling for Claude Code, Codex, and Gemini CLI.
 
 <p>
-  <a href="https://x.com/StealthyLabsHQ"><img src="https://img.shields.io/badge/X-TRACKED-111111?style=flat-square&labelColor=111111&color=FF3B3B" alt="X" /></a>
+  <a href="https://x.com/StealthyLabsHQ"><code>X :: TRACKED</code></a>
   
-  <a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/TWITCH-STREAMING-111111?style=flat-square&labelColor=111111&color=9146FF" alt="Twitch" /></a>
-  <a href="https://tiktok.com/@stealthylabs"><img src="https://img.shields.io/badge/TIKTOK-SIGNAL-111111?style=flat-square&labelColor=111111&color=FFFFFF" alt="TikTok" /></a>
+  <a href="https://twitch.tv/stealthylabs"><code>TWITCH :: STREAMING</code></a>
+  <a href="https://tiktok.com/@stealthylabs"><code>TIKTOK :: SIGNAL</code></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=StealthyLabsHQ&label=ACCESSES+LOGGED&color=8B0000&style=flat-square" alt="Access counter" />
+<code>README MODE :: ZERO EXTERNAL ASSET DEPENDENCIES</code>
 
 </div>
 
@@ -81,9 +81,9 @@ This profile is not meant to read like generic developer bio. It should feel lik
 
 | AGENT | OPERATIONAL ROLE | STATUS |
 | :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> | terminal-native skills, workflows, autonomous build loops | `VERIFIED` |
-| <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> | deep execution, debugging, shipping, security review | `VERIFIED` |
-| Gemini CLI | research acceleration, second-pass reasoning, contrast checks | `ACTIVE` |
+| <img src="./assets/anthropic.svg" alt="Anthropic" height="14" /> Claude Code | terminal-native skills, workflows, autonomous build loops | `VERIFIED` |
+| <img src="./assets/openai.svg" alt="OpenAI" height="14" /> Codex | deep execution, debugging, shipping, security review | `VERIFIED` |
+| <img src="./assets/gemini.svg" alt="Gemini" height="14" /> Gemini CLI | research acceleration, second-pass reasoning, contrast checks | `ACTIVE` |
 
 </details>
 
@@ -120,13 +120,16 @@ This profile is not meant to read like generic developer bio. It should feel lik
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Gemini_CLI-111111?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <code>Python</code>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>Node.js</code>
+  <img src="./assets/anthropic.svg" alt="Anthropic" height="14" />
+  <code>Claude Code</code>
+  <img src="./assets/gemini.svg" alt="Gemini" height="14" />
+  <code>Gemini CLI</code>
+  <img src="./assets/openai.svg" alt="OpenAI" height="14" />
+  <code>Codex</code>
 </p>
 
 </details>
@@ -176,7 +179,12 @@ This profile is not meant to read like generic developer bio. It should feel lik
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&pause=1800&color=8B949E&center=true&vCenter=true&width=700&lines=STATUS%3A+ACTIVE;DOSSIER%3A+OPEN;CONNECTION%3A+SECURE;STEALTHYLABS+%2F%2F+LIVE" alt="Footer status" />
+<pre>
+STATUS      :: ACTIVE
+DOSSIER     :: OPEN
+CONNECTION  :: SECURE
+PROFILE     :: STEALTHYLABS // LIVE
+</pre>
 
 <br>
 <sub>DOSSIER REF: DOC-2026-SL84 // UNAUTHORIZED CLONING ADVISED AGAINST</sub>

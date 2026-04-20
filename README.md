@@ -7,8 +7,8 @@
 <p>
   <img src="https://img.shields.io/badge/AI_SYSTEMS-ONLINE-111111?style=for-the-badge&labelColor=111111&color=FF3B3B" alt="AI Systems" />
   <img src="https://img.shields.io/badge/MCP_INFRA-DEPLOYED-111111?style=for-the-badge&labelColor=111111&color=8B0000" alt="MCP Infra" />
-  <span><img src="https://api.iconify.design/simple-icons:anthropic.svg?color=white" alt="Anthropic" height="14" align="absmiddle" /><img src="https://img.shields.io/badge/CLAUDE_CODE-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=D97706&logo=anthropic&logoColor=white" alt="Claude Code" /></span>
-  <span><img src="https://api.iconify.design/simple-icons:openai.svg?color=white" alt="OpenAI" height="14" align="absmiddle" /><img src="https://img.shields.io/badge/OPENAI_%2F_CODEX-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=0A0A0A&logo=openai&logoColor=white" alt="OpenAI / Codex" /></span>
+  <img src="https://img.shields.io/badge/CLAUDE_CODE-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=D97706&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OPENAI_%2F_CODEX-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=0A0A0A&logo=openai&logoColor=white" alt="OpenAI / Codex" />
   <span><img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=white" alt="Gemini" height="14" align="absmiddle" /><img src="https://img.shields.io/badge/GEMINI_CLI-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=4F46E5" alt="Gemini CLI" /></span>
   <img src="https://img.shields.io/badge/SECURITY-MINDED-111111?style=for-the-badge&labelColor=111111&color=2EA043" alt="Security" />
   <img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=6E7681" alt="Automation" />
@@ -125,11 +125,8 @@ This profile is not meant to read like generic developer bio. It should feel lik
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=white" alt="Anthropic" height="14" />
   <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=white" alt="Gemini" height="14" />
   <img src="https://img.shields.io/badge/Gemini_CLI-111111?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" alt="OpenAI" height="14" />
   <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 </p>
 

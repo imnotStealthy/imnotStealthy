@@ -96,102 +96,32 @@ This profile is not meant to read like generic developer bio. It should feel lik
 
 </details>
 
-<details>
-<summary><b>[ CORE FOCUS ]</b></summary>
+<details open>
+<summary><b>[ FEATURED OPS ]</b></summary>
 <br>
 
-| DOMAIN | CAPABILITY |
-| :--- | :--- |
-| AI Systems | building agentic products, workflows, and reasoning-assisted tooling |
-| Skill Engineering | building terminal-grade skills for Claude Code, Codex, and Gemini CLI |
-| MCP Infrastructure | designing and deploying Model Context Protocol servers |
-| Security | reducing attack surface and tightening system behavior by default |
-| Automation | turning repetitive ops into reliable pipelines and operator tooling |
-| Prototyping | high-speed implementation without losing structure or taste |
+| REPO | BRIEF | STACK |
+| :--- | :--- | :--- |
+| [**caveman-lang**](https://github.com/StealthyLabsHQ/caveman-lang) | Token survival protocol — cut LLM output waste 60–90% | Prompt engineering |
+| [**security-hardening**](https://github.com/StealthyLabsHQ/security-hardening) | Portable defensive AppSec + AI-agent security skill (OWASP, MCP, prompt injection) | Python · Skill |
+| [**gemini-mcp-connect**](https://github.com/StealthyLabsHQ/gemini-mcp-connect) | MCP bridge — Claude Code talks to Gemini brain | Python · MCP |
+| [**steam-mcp**](https://github.com/StealthyLabsHQ/steam-mcp) | MCP server exposing Steam Web API to Claude Code & Gemini CLI | TypeScript · MCP |
+| [**powerbi-mcp-local**](https://github.com/StealthyLabsHQ/powerbi-mcp-local) | MCP server for Power BI Desktop — Excel, Power Query, semantic model automation | Python · MCP |
+| [**agentops-config-toolkit**](https://github.com/StealthyLabsHQ/agentops-config-toolkit) | Compact configs keeping Claude Code, Codex, Gemini focused + cost-efficient | Config · Skill |
 
 </details>
 
-<details>
-<summary><b>[ SKILL FORGE ]</b></summary>
+<details open>
+<summary><b>[ NOW BUILDING ]</b></summary>
 <br>
 
 ```text
-> design operator-grade skills
-> tighten prompt + workflow behavior
-> build reusable terminal tooling
-> turn agent stacks into real leverage
+> expanding MCP server fleet — new integrations on the pipeline
+> sharpening caveman-lang token rules across multi-agent stacks
+> growing security-hardening skill for MCP + prompt injection defense
+> full Discord RPC coverage for Claude Code + Codex operator sessions
+> operator-grade skill templates for Claude Code / Codex / Gemini
 ```
-
-</details>
-
-<details>
-<summary><b>[ LOADOUT ]</b></summary>
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Gemini_CLI-111111?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>[ SIGNAL TELEMETRY ]</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=StealthyLabsHQ&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=C9D1D9" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StealthyLabsHQ&theme=dark&background=0d1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&hide_border=true&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthyLabsHQ&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3B3B&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
-</div>
-
-</details>
-
-<details open>
-<summary><b>[ FIELD DECORATIONS ]</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=StealthyLabsHQ&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
-</details>
-
-<details>
-<summary><b>[ ACTIVITY GRAPH ]</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StealthyLabsHQ&bg_color=0d1117&color=FF3B3B&line=FF3B3B&point=FFFFFF&area=true&area_color=8B0000&hide_border=true" alt="Activity graph" />
-
-</div>
-
-</details>
-
-<details>
-<summary><b>[ CONTRIBUTION SNAKE ]</b></summary>
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StealthyLabsHQ/StealthyLabsHQ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StealthyLabsHQ/StealthyLabsHQ/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/StealthyLabsHQ/StealthyLabsHQ/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 </details>
 
@@ -206,15 +136,6 @@ This profile is not meant to read like generic developer bio. It should feel lik
 - [DataCamp AI Engineering](https://www.datacamp.com/certificate/AIEDA0011599467581)
 - [Google AI Professional Certificate](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile)
 
-<p>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-111111?style=flat-square&logo=google&logoColor=white&labelColor=111111&color=4285F4" alt="Google Cybersecurity" />
-  <img src="https://img.shields.io/badge/Anthropic-API_Fundamentals-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111&color=D97706" alt="Anthropic Fundamentals" />
-  <img src="https://img.shields.io/badge/Anthropic-API_Advanced-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111&color=8B0000" alt="Anthropic Advanced" />
-  <img src="https://img.shields.io/badge/Anthropic-API_Extended-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111&color=FF3B3B" alt="Anthropic Extended" />
-  <img src="https://img.shields.io/badge/DataCamp-AI_Engineering-111111?style=flat-square&logo=datacamp&logoColor=white&labelColor=111111&color=03EF62" alt="DataCamp AI" />
-  <img src="https://img.shields.io/badge/Google-AI_Professional-111111?style=flat-square&logo=google&logoColor=white&labelColor=111111&color=4285F4" alt="Google AI" />
-</p>
-
 </details>
 
 <details>
@@ -228,20 +149,6 @@ This profile is not meant to read like generic developer bio. It should feel lik
 > automate leverage
 > secure before scale
 ```
-
-</details>
-
-<details>
-<summary><b>Open extended dossier</b></summary>
-<br>
-
-| SECTION | NOTES |
-| :--- | :--- |
-| Architecture | MCP servers, internal tooling, workflow orchestration |
-| Agent Stack | Claude Code, Codex, Gemini CLI |
-| Execution | fast iteration, direct implementation, small reviewable diffs |
-| Security Posture | defensive by default, fewer moving parts, tighter control surfaces |
-| Style | terminal aesthetic, dark signal palette, minimal fluff |
 
 </details>
 

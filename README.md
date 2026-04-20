@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=6E7681" alt="Automation" />
 </p>
 
-> Building AI-native systems, MCP servers, agent workflows, and security-first tooling with a terminal-grade aesthetic.
+> Building AI-first systems, terminal-native skills, MCP servers, and operator tooling for Claude Code, Codex, and Gemini CLI.
 
 <p>
   <a href="https://x.com/StealthyLabsHQ"><img src="https://img.shields.io/badge/X-TRACKED-111111?style=flat-square&labelColor=111111&color=FF3B3B" alt="X" /></a>
@@ -28,7 +28,7 @@
 
 ## Mission Brief
 
-I build fast, opinionated systems at intersection of AI engineering, agent orchestration, and secure automation.
+I build fast, opinionated systems with an AI-first profile: skills, agent workflows, MCP infrastructure, and secure automation.
 
 This profile is not meant to read like generic developer bio. It should feel like entry point into operating model:
 
@@ -43,7 +43,8 @@ This profile is not meant to read like generic developer bio. It should feel lik
 | :--- | :--- | :---: |
 | CODENAME | `StealthyLabsHQ` | `ACTIVE` |
 | UNIT | `StealthyLabs` | `ACTIVE` |
-| OPERATING MODE | AI systems + infra + security | `LIVE` |
+| OPERATING MODE | AI systems + skills + infra + security | `LIVE` |
+| CODEX STATUS | 100% operational mastery | `VERIFIED` |
 | SIGNAL | fast builds, deep iteration, zero fluff | `CONFIRMED` |
 
 ## Core Focus
@@ -51,6 +52,7 @@ This profile is not meant to read like generic developer bio. It should feel lik
 | DOMAIN | CAPABILITY |
 | :--- | :--- |
 | AI Systems | building agentic products, workflows, and reasoning-assisted tooling |
+| Skill Engineering | building terminal-grade skills for Claude Code, Codex, and Gemini CLI |
 | MCP Infrastructure | designing and deploying Model Context Protocol servers |
 | Security | reducing attack surface and tightening system behavior by default |
 | Automation | turning repetitive ops into reliable pipelines and operator tooling |
@@ -81,6 +83,7 @@ This profile is not meant to read like generic developer bio. It should feel lik
 
 ```text
 > build systems, not noise
+> forge skills for terminal-native agents
 > prototype with intent
 > automate leverage
 > secure before scale
@@ -93,6 +96,7 @@ This profile is not meant to read like generic developer bio. It should feel lik
 | SECTION | NOTES |
 | :--- | :--- |
 | Architecture | MCP servers, internal tooling, workflow orchestration |
+| Agent Stack | Claude Code, Codex, Gemini CLI |
 | Execution | fast iteration, direct implementation, small reviewable diffs |
 | Security Posture | defensive by default, fewer moving parts, tighter control surfaces |
 | Style | terminal aesthetic, dark signal palette, minimal fluff |

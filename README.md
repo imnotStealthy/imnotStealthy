@@ -7,6 +7,8 @@
 <p>
   <img src="https://img.shields.io/badge/AI_SYSTEMS-ONLINE-111111?style=for-the-badge&labelColor=111111&color=FF3B3B" alt="AI Systems" />
   <img src="https://img.shields.io/badge/MCP_INFRA-DEPLOYED-111111?style=for-the-badge&labelColor=111111&color=8B0000" alt="MCP Infra" />
+  <img src="https://img.shields.io/badge/CLAUDE_CODE-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=D97706&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OPENAI_%2F_CODEX-OPERATIONAL-111111?style=for-the-badge&labelColor=111111&color=0A0A0A&logo=openai&logoColor=white" alt="OpenAI / Codex" />
   <img src="https://img.shields.io/badge/SECURITY-MINDED-111111?style=for-the-badge&labelColor=111111&color=2EA043" alt="Security" />
   <img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=6E7681" alt="Automation" />
 </p>
@@ -26,7 +28,9 @@
 
 ---
 
-## [ TERMINAL INTAKE ]
+<details open>
+<summary><b>[ TERMINAL INTAKE ]</b></summary>
+<br>
 
 I build fast, opinionated systems with an AI-first profile: skills, agent workflows, MCP infrastructure, and secure automation.
 
@@ -40,6 +44,9 @@ AI-first builder // skill engineer // MCP operator // security-minded
 $ primary_agents
 Claude Code / Codex / Gemini CLI
 
+$ claude_code_status
+100% operational mastery
+
 $ codex_status
 100% operational mastery
 ```
@@ -51,25 +58,38 @@ This profile is not meant to read like generic developer bio. It should feel lik
 - secure early, not after launch
 - make tooling feel sharp, deliberate, and alive
 
-## [ IDENTITY MATRIX ]
+</details>
+
+<details open>
+<summary><b>[ IDENTITY MATRIX ]</b></summary>
+<br>
 
 | FIELD | VALUE | STATUS |
 | :--- | :--- | :---: |
 | CODENAME | `StealthyLabsHQ` | `ACTIVE` |
 | UNIT | `StealthyLabs` | `ACTIVE` |
 | OPERATING MODE | AI systems + skills + infra + security | `LIVE` |
+| CLAUDE CODE STATUS | 100% operational mastery | `VERIFIED` |
 | CODEX STATUS | 100% operational mastery | `VERIFIED` |
 | SIGNAL | fast builds, deep iteration, zero fluff | `CONFIRMED` |
 
-## [ AGENT STACK ]
+</details>
+
+<details open>
+<summary><b>[ AGENT STACK ]</b></summary>
+<br>
 
 | AGENT | OPERATIONAL ROLE | STATUS |
 | :--- | :--- | :---: |
-| Claude Code | terminal-native skills, workflows, autonomous build loops | `ACTIVE` |
-| Codex | deep execution, debugging, shipping, security review | `VERIFIED` |
+| <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> | terminal-native skills, workflows, autonomous build loops | `VERIFIED` |
+| <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> | deep execution, debugging, shipping, security review | `VERIFIED` |
 | Gemini CLI | research acceleration, second-pass reasoning, contrast checks | `ACTIVE` |
 
-## [ CORE FOCUS ]
+</details>
+
+<details>
+<summary><b>[ CORE FOCUS ]</b></summary>
+<br>
 
 | DOMAIN | CAPABILITY |
 | :--- | :--- |
@@ -80,7 +100,11 @@ This profile is not meant to read like generic developer bio. It should feel lik
 | Automation | turning repetitive ops into reliable pipelines and operator tooling |
 | Prototyping | high-speed implementation without losing structure or taste |
 
-## [ SKILL FORGE ]
+</details>
+
+<details>
+<summary><b>[ SKILL FORGE ]</b></summary>
+<br>
 
 ```text
 > design operator-grade skills
@@ -89,7 +113,11 @@ This profile is not meant to read like generic developer bio. It should feel lik
 > turn agent stacks into real leverage
 ```
 
-## [ LOADOUT ]
+</details>
+
+<details>
+<summary><b>[ LOADOUT ]</b></summary>
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -101,7 +129,11 @@ This profile is not meant to read like generic developer bio. It should feel lik
   <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
-## [ VERIFIED CLEARANCES ]
+</details>
+
+<details>
+<summary><b>[ VERIFIED CLEARANCES ]</b></summary>
+<br>
 
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/BT9A8BGITTC8)
 - [Anthropic Claude API - Fundamentals](https://verify.skilljar.com/c/ztvbm76um6he)
@@ -110,7 +142,11 @@ This profile is not meant to read like generic developer bio. It should feel lik
 - [DataCamp AI Engineering](https://www.datacamp.com/certificate/AIEDA0011599467581)
 - [Google AI Professional Certificate](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile)
 
-## [ TERMINAL DOCTRINE ]
+</details>
+
+<details>
+<summary><b>[ TERMINAL DOCTRINE ]</b></summary>
+<br>
 
 ```text
 > build systems, not noise
@@ -119,6 +155,8 @@ This profile is not meant to read like generic developer bio. It should feel lik
 > automate leverage
 > secure before scale
 ```
+
+</details>
 
 <details>
 <summary><b>Open extended dossier</b></summary>

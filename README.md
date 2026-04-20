@@ -1,113 +1,101 @@
 <div align="center">
 
-<pre>
-   ██████╗██╗      █████╗ ███████╗███████╗██╗███████╗██╗███████╗██████╗ 
-  ██╔════╝██║     ██╔══██╗██╔════╝██╔════╝██║██╔════╝██║██╔════╝██╔══██╗
-  ██║     ██║     ███████║███████╗███████╗██║█████╗  ██║█████╗  ██║  ██║
-  ██║     ██║     ██╔══██║╚════██║╚════██║██║██╔══╝  ██║██╔══╝  ██║  ██║
-  ╚██████╗███████╗██║  ██║███████║███████║██║██║     ██║███████╗██████╔╝
-   ╚═════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
-</pre>
+<img src="./Terminal.png" alt="StealthyLabs terminal banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=ESTABLISHING+SECURE+CONNECTION...;DECRYPTING+PAYLOAD...;AUTHORIZATION+ACCEPTED.;LOADING+DOSSIER+DOC-2026-SL84...;OVERRIDING+CENSORSHIP+PROTOCOLS...;[+CONNECTION+LIVE+]" alt="Terminal Boot Sequence" />
+<h1>STEALTHYLABS // PROFILE DOSSIER</h1>
 
-<br>
-<img src="https://img.shields.io/badge/EXECUTIVE_ORDER_████-UNAUTHORIZED_REPRODUCTION_PROHIBITED-8B0000?style=for-the-badge" alt="Warning" />
+<p>
+  <img src="https://img.shields.io/badge/AI_SYSTEMS-ONLINE-111111?style=for-the-badge&labelColor=111111&color=FF3B3B" alt="AI Systems" />
+  <img src="https://img.shields.io/badge/MCP_INFRA-DEPLOYED-111111?style=for-the-badge&labelColor=111111&color=8B0000" alt="MCP Infra" />
+  <img src="https://img.shields.io/badge/SECURITY-MINDED-111111?style=for-the-badge&labelColor=111111&color=2EA043" alt="Security" />
+  <img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-111111?style=for-the-badge&labelColor=111111&color=6E7681" alt="Automation" />
+</p>
 
-<br><br>
+> Building AI-native systems, MCP servers, agent workflows, and security-first tooling with a terminal-grade aesthetic.
 
-> *I don't just write code. I orchestrate it.*  
-> *Blending raw engineering with AI-driven intuition to ship fast, think deep, and build different.*
+<p>
+  <a href="https://x.com/StealthyLabsHQ"><img src="https://img.shields.io/badge/X-TRACKED-111111?style=flat-square&labelColor=111111&color=FF3B3B" alt="X" /></a>
+  
+  <a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/TWITCH-STREAMING-111111?style=flat-square&labelColor=111111&color=9146FF" alt="Twitch" /></a>
+  <a href="https://tiktok.com/@stealthylabs"><img src="https://img.shields.io/badge/TIKTOK-SIGNAL-111111?style=flat-square&labelColor=111111&color=FFFFFF" alt="TikTok" /></a>
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=StealthyLabsHQ&label=ACCESSES+LOGGED&color=8B0000&style=flat-square" alt="Access Counter" />
+<img src="https://komarev.com/ghpvc/?username=StealthyLabsHQ&label=ACCESSES+LOGGED&color=8B0000&style=flat-square" alt="Access counter" />
 
 </div>
 
 ---
 
-<details>
-<summary><b>▶ [ CLICK TO DECLASSIFY SECTION I : SUBJECT PROFILE ]</b></summary>
-<br>
+## Mission Brief
 
-| FIELD | DATA INGRESS | STATUS |
+I build fast, opinionated systems at intersection of AI engineering, agent orchestration, and secure automation.
+
+This profile is not meant to read like generic developer bio. It should feel like entry point into operating model:
+
+- ship useful systems, not empty demos
+- automate repeatable leverage
+- secure early, not after launch
+- make tooling feel sharp, deliberate, and alive
+
+## Identity Matrix
+
+| FIELD | VALUE | STATUS |
 | :--- | :--- | :---: |
-| **CODENAME** | `[REDACTED]` | <img src="https://img.shields.io/badge/-ACTIVE-000000?style=flat-square&color=00FF41" /> |
-| **OPERATIONAL UNIT** | StealthyLabs | <img src="https://img.shields.io/badge/-ACTIVE-000000?style=flat-square&color=00FF41" /> |
-| **LOCATION** | ~~█████████~~ `[ E̶X̷P̶U̷N̷G̶E̷D̷ ]` | <img src="https://img.shields.io/badge/-UNKNOWN-000000?style=flat-square&color=8B0000" /> |
-| **ACADEMIC REC.** | ~~████████████ Univ.~~ `NO MATCH` | <img src="https://img.shields.io/badge/-UNKNOWN-000000?style=flat-square&color=8B0000" /> |
-| **ASSET VALUE** | HIGH — STRATEGIC PRIORITY | <img src="https://img.shields.io/badge/-CONFIRMED-000000?style=flat-square&color=00FF41" /> |
+| CODENAME | `StealthyLabsHQ` | `ACTIVE` |
+| UNIT | `StealthyLabs` | `ACTIVE` |
+| OPERATING MODE | AI systems + infra + security | `LIVE` |
+| SIGNAL | fast builds, deep iteration, zero fluff | `CONFIRMED` |
 
-> *Note: Subject operates with complete anonymity. Digital footprint outside of StealthyLabs parameters is zero.*
+## Core Focus
 
-</details>
-
-<br>
-
-<details>
-<summary><b>▶ [ CLICK TO DECLASSIFY SECTION II : OPERATIONAL CAPABILITIES ]</b></summary>
-<br>
-
-| DOMAIN | VERIFIED CAPABILITY |
+| DOMAIN | CAPABILITY |
 | :--- | :--- |
-| **Architecture** | Deployment of advanced Model Context Protocol (MCP) servers. |
-| **Prototyping** | High-velocity code generation under zero-visibility conditions. |
-| **Mitigation** | Proactive neutralization of attack vectors and architectural vulnerabilities. |
-| **Automation** | Engineering of AI-driven pipelines and autonomous agent workflows. |
-| **Infiltration** | Subject frequently initiates ████████████ bypassing standard firewalls. |
+| AI Systems | building agentic products, workflows, and reasoning-assisted tooling |
+| MCP Infrastructure | designing and deploying Model Context Protocol servers |
+| Security | reducing attack surface and tightening system behavior by default |
+| Automation | turning repetitive ops into reliable pipelines and operator tooling |
+| Prototyping | high-speed implementation without losing structure or taste |
 
-</details>
+## Toolchain
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-111111?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+</p>
 
-<details>
-<summary><b>▶ [ CLICK TO DECLASSIFY SECTION III : TOOLS & ASSETS ]</b></summary>
-<br>
+## Verified Clearances
 
-> *Asset utilization confirmed via intercepted packets.*
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/BT9A8BGITTC8)
+- [Anthropic Claude API - Fundamentals](https://verify.skilljar.com/c/ztvbm76um6he)
+- [Anthropic Claude API - Advanced](https://verify.skilljar.com/c/bvka7onrte8u)
+- [Anthropic Claude API - Extended](https://verify.skilljar.com/c/28kv5x7izkrd)
+- [DataCamp AI Engineering](https://www.datacamp.com/certificate/AIEDA0011599467581)
+- [Google AI Professional Certificate](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile)
 
-| TOOL | CLASSIFICATION | DEPLOYMENT VECTOR |
-| :--- | :---: | :--- |
-| **PYTHON** | <img src="https://img.shields.io/badge/UNRESTRICTED-000000?style=flat-square&color=00FF41" /> | Core scripting, logic formulation, automated data manipulation. |
-| **JAVASCRIPT** | <img src="https://img.shields.io/badge/UNRESTRICTED-000000?style=flat-square&color=00FF41" /> | Frontend/backend deployment and systemic integration. |
-| **CLAUDE CODE** | <img src="https://img.shields.io/badge/LEVEL_5-000000?style=flat-square&color=8B0000" /> | Deployment of agentic autonomous workflows and reasoning models. |
-| **GEMINI CLI** | <img src="https://img.shields.io/badge/LEVEL_5-000000?style=flat-square&color=8B0000" /> | Rapid pipeline iteration and secondary AI augmentation. |
-| **CODEX** | <img src="https://img.shields.io/badge/RESTRICTED-000000?style=flat-square&color=C0C0C0" /> | Deep syntax generation and security vulnerability auditing. |
+## Terminal Doctrine
 
-</details>
-
-<br>
-
-<details>
-<summary><b>▶ [ CLICK TO DECLASSIFY SECTION IV : CLEARANCES ]</b></summary>
-<br>
-
-> *Formal vetting procedures confirm the following acquired qualifications. Documentation physically verified.*
-
-- 🪪 [**Google Cybersecurity**](https://www.coursera.org/account/accomplishments/specialization/BT9A8BGITTC8) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 [**Anthropic Claude API — Fundamentals**](https://verify.skilljar.com/c/ztvbm76um6he) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 [**Anthropic Claude API — Advanced**](https://verify.skilljar.com/c/bvka7onrte8u) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 [**Anthropic Claude API — Extended**](https://verify.skilljar.com/c/28kv5x7izkrd) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 [**DataCamp AI Engineering**](https://www.datacamp.com/certificate/AIEDA0011599467581) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-- 🪪 [**Google AI Professional Certificate**](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile) ⸻ <img src="https://img.shields.io/badge/CLEARANCE-VERIFIED-000000?style=flat-square&color=00FF41" />
-
-</details>
-
-<br>
+```text
+> build systems, not noise
+> prototype with intent
+> automate leverage
+> secure before scale
+```
 
 <details>
-<summary><b>▶ [ CLICK TO DECLASSIFY SECTION V : COMMUNICATION CHANNELS ]</b></summary>
+<summary><b>Open extended dossier</b></summary>
 <br>
 
-> *Signals Intelligence (SIGINT) is tracking the subject across these nodes.*
-
-| NODE | STATUS | ACCESS TERMINAL |
-| :--- | :---: | :--- |
-| **X (Twitter)** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [StealthyLabsHQ](https://x.com/StealthyLabsHQ) |
-| **Discord** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [StealthyLabs](https://discord.com/users/0) |
-| **Twitch** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [stealthylabs](https://twitch.tv/stealthylabs) |
-| **TikTok** | <img src="https://img.shields.io/badge/SIGINT-MONITORED-000000?style=flat-square&color=FF0000" /> | [@stealthylabs](https://tiktok.com/@stealthylabs) |
+| SECTION | NOTES |
+| :--- | :--- |
+| Architecture | MCP servers, internal tooling, workflow orchestration |
+| Execution | fast iteration, direct implementation, small reviewable diffs |
+| Security Posture | defensive by default, fewer moving parts, tighter control surfaces |
+| Style | terminal aesthetic, dark signal palette, minimal fluff |
 
 </details>
 
@@ -115,10 +103,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&pause=2000&color=888888&background=00000000&center=true&vCenter=true&width=450&lines=FILE+STATUS%3A...;FILE+STATUS%3A+ACTIVE;CLASSIFICATION%3A+TOP+SECRET+%2F%2F+SI+%2F%2F+NOFORN;LAST+REVIEWED%3A+%5BREDACTED%5D;CONNECTION+SECURE." alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&pause=1800&color=8B949E&center=true&vCenter=true&width=700&lines=STATUS%3A+ACTIVE;DOSSIER%3A+OPEN;CONNECTION%3A+SECURE;STEALTHYLABS+%2F%2F+LIVE" alt="Footer status" />
 
 <br>
-
-<sub>© DOSSIER DOC-2026-SL84 — ALL RIGHTS RESERVED — UNAUTHORIZED ACCESS WILL BE PROSECUTED</sub>
+<sub>DOSSIER REF: DOC-2026-SL84 // UNAUTHORIZED CLONING ADVISED AGAINST</sub>
 
 </div>

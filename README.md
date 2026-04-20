@@ -2,6 +2,10 @@
 
 <img src="./Terminal.png" alt="StealthyLabs terminal banner" width="100%" />
 
+<a href="https://github.com/StealthyLabsHQ">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1500&color=FF3B3B&center=true&vCenter=true&width=900&lines=AI-first+builder+%2F%2F+skill+engineer+%2F%2F+MCP+operator;Terminal-native+tooling+for+Claude+Code%2C+Codex%2C+Gemini+CLI;Ship+systems%2C+not+noise." alt="Hero typing" />
+</a>
+
 <h1>STEALTHYLABS // PROFILE DOSSIER</h1>
 
 <p>
@@ -23,7 +27,11 @@
   <a href="https://tiktok.com/@stealthylabs"><img src="https://img.shields.io/badge/TIKTOK-SIGNAL-111111?style=flat-square&labelColor=111111&color=FFFFFF" alt="TikTok" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=StealthyLabsHQ&label=ACCESSES+LOGGED&color=8B0000&style=flat-square" alt="Access counter" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=StealthyLabsHQ&label=ACCESSES+LOGGED&color=8B0000&style=flat-square" alt="Access counter" />
+  <img src="https://img.shields.io/github/followers/StealthyLabsHQ?label=OPERATIVES&style=flat-square&labelColor=111111&color=FF3B3B" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/StealthyLabsHQ?label=SIGNAL+BOOSTS&style=flat-square&labelColor=111111&color=D97706" alt="Stars" />
+</p>
 
 </div>
 
@@ -132,6 +140,61 @@ This profile is not meant to read like generic developer bio. It should feel lik
 
 </details>
 
+<details open>
+<summary><b>[ SIGNAL TELEMETRY ]</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=StealthyLabsHQ&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=C9D1D9" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StealthyLabsHQ&theme=dark&background=0d1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&hide_border=true&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthyLabsHQ&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF3B3B&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>[ FIELD DECORATIONS ]</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=StealthyLabsHQ&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+</details>
+
+<details>
+<summary><b>[ ACTIVITY GRAPH ]</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StealthyLabsHQ&bg_color=0d1117&color=FF3B3B&line=FF3B3B&point=FFFFFF&area=true&area_color=8B0000&hide_border=true" alt="Activity graph" />
+
+</div>
+
+</details>
+
+<details>
+<summary><b>[ CONTRIBUTION SNAKE ]</b></summary>
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StealthyLabsHQ/StealthyLabsHQ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StealthyLabsHQ/StealthyLabsHQ/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/StealthyLabsHQ/StealthyLabsHQ/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+</details>
+
 <details>
 <summary><b>[ VERIFIED CLEARANCES ]</b></summary>
 <br>
@@ -142,6 +205,15 @@ This profile is not meant to read like generic developer bio. It should feel lik
 - [Anthropic Claude API - Extended](https://verify.skilljar.com/c/28kv5x7izkrd)
 - [DataCamp AI Engineering](https://www.datacamp.com/certificate/AIEDA0011599467581)
 - [Google AI Professional Certificate](https://www.credly.com/badges/91985dd8-2609-4a3b-91b8-fa8a35efa7c0/linked_in_profile)
+
+<p>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-111111?style=flat-square&logo=google&logoColor=white&labelColor=111111&color=4285F4" alt="Google Cybersecurity" />
+  <img src="https://img.shields.io/badge/Anthropic-API_Fundamentals-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111&color=D97706" alt="Anthropic Fundamentals" />
+  <img src="https://img.shields.io/badge/Anthropic-API_Advanced-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111&color=8B0000" alt="Anthropic Advanced" />
+  <img src="https://img.shields.io/badge/Anthropic-API_Extended-111111?style=flat-square&logo=anthropic&logoColor=white&labelColor=111111&color=FF3B3B" alt="Anthropic Extended" />
+  <img src="https://img.shields.io/badge/DataCamp-AI_Engineering-111111?style=flat-square&logo=datacamp&logoColor=white&labelColor=111111&color=03EF62" alt="DataCamp AI" />
+  <img src="https://img.shields.io/badge/Google-AI_Professional-111111?style=flat-square&logo=google&logoColor=white&labelColor=111111&color=4285F4" alt="Google AI" />
+</p>
 
 </details>
 
@@ -176,6 +248,14 @@ This profile is not meant to read like generic developer bio. It should feel lik
 ---
 
 <div align="center">
+
+<h3>[ ESTABLISH CONTACT ]</h3>
+
+<p>
+  <a href="mailto:125747450+stealthsrc@users.noreply.github.com"><img src="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-111111?style=for-the-badge&labelColor=111111&color=FF3B3B&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/StealthyLabsHQ"><img src="https://img.shields.io/badge/HIRE_%2F_COLLAB-REQUEST-111111?style=for-the-badge&labelColor=111111&color=8B0000&logo=x&logoColor=white" alt="Hire" /></a>
+  <a href="https://github.com/StealthyLabsHQ?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-SIGNAL-111111?style=for-the-badge&labelColor=111111&color=2EA043&logo=github&logoColor=white" alt="Follow" /></a>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=12&pause=1800&color=8B949E&center=true&vCenter=true&width=700&lines=STATUS%3A+ACTIVE;DOSSIER%3A+OPEN;CONNECTION%3A+SECURE;STEALTHYLABS+%2F%2F+LIVE" alt="Footer status" />
 

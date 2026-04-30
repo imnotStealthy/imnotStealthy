@@ -1,4 +1,13 @@
-# Stealthy
+# StealthyLabsHQ
+
+**AI automation · business systems · digital transformation**
+
+<details>
+<summary><strong>Professional profile / Profil professionnel</strong> - click to expand</summary>
+
+<br>
+
+## Stealthy
 
 
 I connect accounting, information systems and AI automation to help business teams build clearer, faster and more reliable workflows.
@@ -81,10 +90,9 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 
 ---
 
-<details>
-<summary><strong>StealthyLabs</strong> - personal layer</summary>
+</details>
 
-<br>
+---
 
 <div align="center">
 
@@ -100,5 +108,3 @@ quiet tools - useful systems - clear signal
 </p>
 
 </div>
-
-</details>

@@ -25,7 +25,7 @@ I am looking for a **24-month apprenticeship starting in September 2026** in **b
 | Area | Tools and Skills |
 | --- | --- |
 | Automation | VBA, PowerShell, advanced Excel |
-| AI | Claude, Gemini, Claude Code, AI agents, MCP, prompt engineering |
+| AI | Claude, Gemini, Claude Code, OpenAI Codex, Cursor, AI agents, MCP, prompt engineering |
 | Data | Python with Anthropic/Gemini SDKs, SQL, Power BI in progress |
 | Methods | Agile/Scrum, acceptance testing, documentation, change management |
 
@@ -64,7 +64,7 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 | Domaine | Outils et compétences |
 | --- | --- |
 | Automatisation | VBA, PowerShell, Excel avancé maîtrisés |
-| IA | Claude, Gemini, Claude Code, agents IA, MCP, prompt engineering |
+| IA | Claude, Gemini, Claude Code, OpenAI Codex, Cursor, agents IA, MCP, prompt engineering |
 | Data | Python avec SDKs Anthropic/Gemini, SQL, Power BI en progression |
 | Méthodes | Agile/Scrum, recette, documentation, conduite du changement |
 

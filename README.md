@@ -81,9 +81,12 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 
 ---
 
-<div align="center">
+<details>
+<summary><strong>StealthyLabs</strong> - personal layer</summary>
 
-### StealthyLabs
+<br>
+
+<div align="center">
 
 ```text
 quiet tools - useful systems - clear signal
@@ -97,3 +100,5 @@ quiet tools - useful systems - clear signal
 </p>
 
 </div>
+
+</details>

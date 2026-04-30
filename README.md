@@ -2,15 +2,7 @@
 
 **AI automation · business systems · digital transformation**
 
-<details>
-<summary><strong>Professional profile / Profil professionnel</strong> - click to expand</summary>
-
-<br>
-
-## Stealthy
-
-
-I connect accounting, information systems and AI automation to help business teams build clearer, faster and more reliable workflows.
+I build automation and AI-assisted workflows for business teams, with a focus on information systems, adoption and practical delivery.
 
 <p>
   <a href="mailto:125747450+stealthsrc@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-pro%40example.invalid-FF0000?style=flat-square&labelColor=111111" alt="Email" /></a>
@@ -18,7 +10,7 @@ I connect accounting, information systems and AI automation to help business tea
   <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-111111?style=flat-square&labelColor=111111&color=FF0000" alt="Website" /></a>
 </p>
 
-## English
+## Recruiter Snapshot
 
 ### Current Search
 
@@ -49,9 +41,14 @@ I am looking for a **24-month apprenticeship starting in September 2026** in **b
 - [**powerbi-mcp-local**](https://github.com/StealthyLabsHQ/powerbi-mcp-local) - local MCP server exploring Power BI, Excel and semantic model automation.
 - [**agentops-config-toolkit**](https://github.com/StealthyLabsHQ/agentops-config-toolkit) - compact configs for focused Claude Code, Codex and Gemini workflows.
 
+### Contact
+
+- **Email:** [125747450+stealthsrc@users.noreply.github.com](mailto:125747450+stealthsrc@users.noreply.github.com)
+- **Site:** [stealthylabs.eu](https://stealthylabs.eu)
+
 ---
 
-## Français
+## Profil recruteur
 
 ### Recherche actuelle
 
@@ -85,10 +82,23 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 
 ### Contact
 
-- **Email:** [125747450+stealthsrc@users.noreply.github.com](mailto:125747450+stealthsrc@users.noreply.github.com)
-- **Site:** [stealthylabs.eu](https://stealthylabs.eu)
+- **Email :** [125747450+stealthsrc@users.noreply.github.com](mailto:125747450+stealthsrc@users.noreply.github.com)
+- **Site :** [stealthylabs.eu](https://stealthylabs.eu)
 
 ---
+
+<details>
+<summary><strong>Who am I? / Qui suis-je ?</strong></summary>
+
+<br>
+
+## Stealthy
+
+
+
+This space separates my professional positioning from my personal identity: recruiters can read the job-focused profile first, then open this section if they want more context.
+
+Cette section sépare mon positionnement professionnel de mon identité personnelle : les recruteurs peuvent lire d'abord le profil orienté poste, puis ouvrir cette partie s'ils veulent plus de contexte.
 
 </details>
 

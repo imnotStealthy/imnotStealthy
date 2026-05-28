@@ -1,27 +1,27 @@
 # StealthyLabsHQ
 
-**Automatisation IA · systèmes métier · transformation digitale**
+**AI automation · business systems · digital transformation**
 
-Je conçois des workflows automatisés et assistés par IA pour aider les équipes métier à gagner en clarté, fiabilité et efficacité.
+I design automated, AI-assisted workflows that help business teams gain clarity, reliability and efficiency.
 
 <p>
   <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-111111?style=flat-square&labelColor=111111&color=FF0000" alt="Site" /></a>
 </p>
 
-### Stack technique
+### Tech stack
 
-| Domaine | Outils et compétences |
+| Area | Tools and skills |
 | --- | --- |
-| Automatisation | VBA, PowerShell, Excel avancé |
-| IA | Claude, Gemini, Claude Code, OpenAI Codex, Cursor, agents IA, MCP, prompt engineering |
-| Data | Python avec SDKs Anthropic/Gemini, SQL, Power BI |
-| Méthodes | Agile/Scrum, recette, documentation, conduite du changement |
+| Automation | VBA, PowerShell, advanced Excel |
+| AI | Claude, Gemini, Claude Code, OpenAI Codex, Cursor, AI agents, MCP, prompt engineering |
+| Data | Python with Anthropic/Gemini SDKs, SQL, Power BI |
+| Methods | Agile/Scrum, acceptance testing, documentation, change management |
 
-### Projets en cours
+### Current projects
 
-- [**prompting-evaluator**](https://github.com/StealthyLabsHQ/prompting-evaluator) - outil d'évaluation de prompts pour comparer qualité, coût et robustesse des réponses IA.
-- [**powerbi-mcp-local**](https://github.com/StealthyLabsHQ/powerbi-mcp-local) - serveur MCP local pour explorer des usages Power BI, Excel et modèles sémantiques.
-- [**agentops-config-toolkit**](https://github.com/StealthyLabsHQ/agentops-config-toolkit) - toolkit de configuration et de documentation pour standardiser l'usage des LLM en entreprise (Claude Code, Codex, Gemini CLI).
+- [**prompting-evaluator**](https://github.com/StealthyLabsHQ/prompting-evaluator) - evaluates prompts across quality, cost and robustness.
+- [**powerbi-mcp-local**](https://github.com/StealthyLabsHQ/powerbi-mcp-local) - local MCP server exploring Power BI, Excel and semantic model usage.
+- [**agentops-config-toolkit**](https://github.com/StealthyLabsHQ/agentops-config-toolkit) - configuration and documentation toolkit to standardize LLM usage in business contexts (Claude Code, Codex, Gemini CLI).
 
 ---
 

@@ -1,4 +1,4 @@
-# StealthyLabsHQ
+# stealthsrc
 
 **AI automation · business systems · digital transformation**
 
@@ -19,9 +19,9 @@ I design automated, AI-assisted workflows that help business teams gain clarity,
 
 ### Current projects
 
-- [**prompting-evaluator**](https://github.com/StealthyLabsHQ/prompting-evaluator) - evaluates prompts across quality, cost and robustness.
-- [**powerbi-mcp-local**](https://github.com/StealthyLabsHQ/powerbi-mcp-local) - local MCP server exploring Power BI, Excel and semantic model usage.
-- [**agentops-config-toolkit**](https://github.com/StealthyLabsHQ/agentops-config-toolkit) - configuration and documentation toolkit to standardize LLM usage in business contexts (Claude Code, Codex, Gemini CLI).
+- [**prompting-evaluator**](https://github.com/stealthsrc/prompting-evaluator) - evaluates prompts across quality, cost and robustness.
+- [**powerbi-mcp-local**](https://github.com/stealthsrc/powerbi-mcp-local) - local MCP server exploring Power BI, Excel and semantic model usage.
+- [**agentops-config-toolkit**](https://github.com/stealthsrc/agentops-config-toolkit) - configuration and documentation toolkit to standardize LLM usage in business contexts (Claude Code, Codex, Gemini CLI).
 
 ---
 

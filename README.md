@@ -32,7 +32,7 @@ quiet tools - useful systems - clear signal
 ```
 
 <p>
-  <a href="https://x.com/StealthyLabsHQ"><img src="https://img.shields.io/badge/X-StealthyLabsHQ-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/stealthsrc"><img src="https://img.shields.io/badge/X-stealthsrc-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   
   <a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/Twitch-stealthylabs-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="https://tiktok.com/@stealthylabs"><img src="https://img.shields.io/badge/TikTok-%40stealthylabs-111111?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>

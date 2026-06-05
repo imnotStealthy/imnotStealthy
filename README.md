@@ -94,7 +94,6 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 | --- | --- | --- |
 | [**claude-rpc**](https://github.com/stealthsrc/claude-rpc) | Native Tauri/Rust Discord Rich Presence for Claude Code & Desktop. | ![](https://img.shields.io/github/stars/stealthsrc/claude-rpc?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**codex-rpc**](https://github.com/stealthsrc/codex-rpc) | Native TS/Tauri/Rust Discord Rich Presence for the Codex CLI. | ![](https://img.shields.io/github/stars/stealthsrc/codex-rpc?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
-| [**arklay-bot**](https://github.com/stealthsrc/arklay-bot) | Modular TypeScript Discord bot — Lavalink music, AI, moderation, tickets. | ![](https://img.shields.io/github/stars/stealthsrc/arklay-bot?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**icue-edge-widgets**](https://github.com/stealthsrc/icue-edge-widgets) | Corsair iCUE widgets for XENEON EDGE / Titan RX — Spotify, ISS, dashboards. | ![](https://img.shields.io/github/stars/stealthsrc/icue-edge-widgets?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
 ### Data, OSINT & gaming — pipelines and automation
@@ -103,7 +102,6 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 | --- | --- | --- |
 | [**osint-terrain**](https://github.com/stealthsrc/osint-terrain) | Retrospective OSINT terrain-analysis pipeline, provenance-first open data. | ![](https://img.shields.io/github/stars/stealthsrc/osint-terrain?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**Cruise**](https://github.com/stealthsrc/Cruise) | AFK auto-farm for Forza Horizon EventLab — telemetry, stuck recovery, Discord RPC. | ![](https://img.shields.io/github/stars/stealthsrc/Cruise?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
-| [**vine-scraper**](https://github.com/stealthsrc/vine-scraper) | Amazon Vine FR poller — Discord alerts, macOS/Windows. | ![](https://img.shields.io/github/stars/stealthsrc/vine-scraper?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
 ---
 

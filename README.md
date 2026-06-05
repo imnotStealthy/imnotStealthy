@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://stealthylabs.eu">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:010409,100:330000&text=stealthsrc&fontColor=FFFFFF&fontSize=48&fontAlignY=44&desc=quiet%20tools%20%E2%80%A2%20useful%20systems%20%E2%80%A2%20clear%20signal&descAlign=50&descAlignY=72&descSize=15" alt="stealthsrc" />
-</a>
+# stealthsrc
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=FF3333&center=true&vCenter=true&width=640&height=45&lines=AI+automation;Business+systems;Digital+transformation;MCP+servers+%26+agent+ops" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=FF3333&center=true&vCenter=true&width=640&height=42&lines=AI+automation;Business+systems;Digital+transformation;MCP+servers+%26+agent+ops" alt="What I build" />
 
 <p>
   <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-010409?style=flat-square&labelColor=010409&color=FF0000" alt="Site" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%C3%97%20Business-010409?style=flat-square&labelColor=010409&color=FF3333" alt="Focus" />
+  <a href="https://github.com/stealthsrc?tab=followers"><img src="https://img.shields.io/github/followers/stealthsrc?style=flat-square&labelColor=010409&color=FF3333&logo=github&logoColor=white&label=Followers" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=stealthsrc&style=flat-square&color=FF0000&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/OpenAI%20Codex-0D1117?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Prompt%20engineering-0D1117?style=flat-square&logo=openaigym&logoColor=white" alt="Prompt engineering" />
+  <img src="https://img.shields.io/badge/Tauri-0D1117?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
 **Methods** — Agile/Scrum · acceptance testing · documentation · change management
@@ -57,10 +56,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stealthsrc&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=stealthsrc&hide_border=false&background=010409&border=30363D&stroke=30363D&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=8B949E&dates=484F58&currStreakNum=C9D1D9&sideNums=C9D1D9&excludeDaysLabel=484F58" alt="GitHub streak" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthsrc&layout=compact&langs_count=8&hide_border=false&bg_color=010409&title_color=FF3333&text_color=8B949E&border_color=30363D" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=stealthsrc&hide_border=false&background=010409&border=30363D&stroke=30363D&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=8B949E&dates=484F58&currStreakNum=C9D1D9&sideNums=C9D1D9&excludeDaysLabel=484F58" alt="GitHub streak" />
 
 </div>
 
@@ -68,67 +64,50 @@
 
 ## Featured work
 
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/stealthsrc/powerbi-mcp-local"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=powerbi-mcp-local&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="powerbi-mcp-local" /></a></td>
-<td><a href="https://github.com/stealthsrc/obsidian-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=obsidian-mcp&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="obsidian-mcp" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/stealthsrc/claude-rpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=claude-rpc&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="claude-rpc" /></a></td>
-<td><a href="https://github.com/stealthsrc/codex-rpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=codex-rpc&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="codex-rpc" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/stealthsrc/security-hardening"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=security-hardening&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="security-hardening" /></a></td>
-<td><a href="https://github.com/stealthsrc/prompting-evaluator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=prompting-evaluator&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="prompting-evaluator" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/stealthsrc/agentops-config-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=agentops-config-toolkit&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="agentops-config-toolkit" /></a></td>
-<td><a href="https://github.com/stealthsrc/remnant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stealthsrc&repo=remnant&show_owner=false&bg_color=010409&title_color=FF3333&icon_color=FF3333&text_color=8B949E&border_color=30363D" alt="remnant" /></a></td>
-</tr>
-</table>
-</div>
+MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 
-### More projects
+### MCP servers — connect AI agents to real systems
 
-**MCP servers** — connect AI agents to real systems
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [**powerbi-mcp-local**](https://github.com/stealthsrc/powerbi-mcp-local) | MCP server for Power BI Desktop — Excel, Power Query, semantic model & visual automation. | ![](https://img.shields.io/github/stars/stealthsrc/powerbi-mcp-local?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**obsidian-mcp**](https://github.com/stealthsrc/obsidian-mcp) | Exposes an Obsidian vault as an external brain for Claude. | ![](https://img.shields.io/github/stars/stealthsrc/obsidian-mcp?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**steam-mcp**](https://github.com/stealthsrc/steam-mcp) | Steam Web API for Claude Code & Gemini CLI — profiles, library, achievements, store search. | ![](https://img.shields.io/github/stars/stealthsrc/steam-mcp?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**mcp-worldoftanks**](https://github.com/stealthsrc/mcp-worldoftanks) | Wargaming.net account analytics over MCP (Claude / Gemini / Desktop). | ![](https://img.shields.io/github/stars/stealthsrc/mcp-worldoftanks?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**gemini-mcp-connect**](https://github.com/stealthsrc/gemini-mcp-connect) | Drive Claude Code with a Google Gemini brain via MCP. | ![](https://img.shields.io/github/stars/stealthsrc/gemini-mcp-connect?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**codex-discord-mcp**](https://github.com/stealthsrc/codex-discord-mcp) | Discord bot + MCP bridge for the Codex CLI. | ![](https://img.shields.io/github/stars/stealthsrc/codex-discord-mcp?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
-<p>
-  <a href="https://github.com/stealthsrc/steam-mcp"><img src="https://img.shields.io/badge/steam--mcp-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="steam-mcp" /></a>
-  <a href="https://github.com/stealthsrc/mcp-worldoftanks"><img src="https://img.shields.io/badge/mcp--worldoftanks-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="mcp-worldoftanks" /></a>
-  <a href="https://github.com/stealthsrc/gemini-mcp-connect"><img src="https://img.shields.io/badge/gemini--mcp--connect-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="gemini-mcp-connect" /></a>
-  <a href="https://github.com/stealthsrc/codex-discord-mcp"><img src="https://img.shields.io/badge/codex--discord--mcp-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="codex-discord-mcp" /></a>
-</p>
+### Agent ops, skills & guides — focused, cost-efficient AI
 
-**Skills, configs & guides** — keep agents focused and cost-efficient
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [**agentops-config-toolkit**](https://github.com/stealthsrc/agentops-config-toolkit) | Compact config files keeping Claude Code, Gemini CLI & Codex focused and cheap. | ![](https://img.shields.io/github/stars/stealthsrc/agentops-config-toolkit?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**prompting-evaluator**](https://github.com/stealthsrc/prompting-evaluator) | Evaluate, score & optimize prompts via Ollama, Gemini or Claude. | ![](https://img.shields.io/github/stars/stealthsrc/prompting-evaluator?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**remnant**](https://github.com/stealthsrc/remnant) | Local-first persistent context memory for Claude Code, Codex & Gemini CLI. | ![](https://img.shields.io/github/stars/stealthsrc/remnant?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**security-hardening**](https://github.com/stealthsrc/security-hardening) | Defensive AppSec & AI-agent security skill — OWASP, MCP security, prompt injection, threat modeling. | ![](https://img.shields.io/github/stars/stealthsrc/security-hardening?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**caveman-lang**](https://github.com/stealthsrc/caveman-lang) | Token survival protocol — cut LLM output waste 60–90%. | ![](https://img.shields.io/github/stars/stealthsrc/caveman-lang?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**agentic-coding-FR**](https://github.com/stealthsrc/agentic-coding-FR) | Hands-on French guide to Claude Code & Codex. | ![](https://img.shields.io/github/stars/stealthsrc/agentic-coding-FR?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
-<p>
-  <a href="https://github.com/stealthsrc/caveman-lang"><img src="https://img.shields.io/badge/caveman--lang-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="caveman-lang" /></a>
-  <a href="https://github.com/stealthsrc/agentic-coding-FR"><img src="https://img.shields.io/badge/agentic--coding--FR-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="agentic-coding-FR" /></a>
-  <a href="https://github.com/stealthsrc/ai-builder-skill"><img src="https://img.shields.io/badge/ai--builder--skill-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="ai-builder-skill" /></a>
-  <a href="https://github.com/stealthsrc/ai-edu-skills-FR"><img src="https://img.shields.io/badge/ai--edu--skills--FR-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="ai-edu-skills-FR" /></a>
-</p>
+### Presence, bots & widgets — desktop & hardware
 
-**Tooling & widgets** — desktop, presence & hardware
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [**claude-rpc**](https://github.com/stealthsrc/claude-rpc) | Native Tauri/Rust Discord Rich Presence for Claude Code & Desktop. | ![](https://img.shields.io/github/stars/stealthsrc/claude-rpc?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**codex-rpc**](https://github.com/stealthsrc/codex-rpc) | Native TS/Tauri/Rust Discord Rich Presence for the Codex CLI. | ![](https://img.shields.io/github/stars/stealthsrc/codex-rpc?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**arklay-bot**](https://github.com/stealthsrc/arklay-bot) | Modular TypeScript Discord bot — Lavalink music, AI, moderation, tickets. | ![](https://img.shields.io/github/stars/stealthsrc/arklay-bot?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**icue-edge-widgets**](https://github.com/stealthsrc/icue-edge-widgets) | Corsair iCUE widgets for XENEON EDGE / Titan RX — Spotify, ISS, dashboards. | ![](https://img.shields.io/github/stars/stealthsrc/icue-edge-widgets?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
-<p>
-  <a href="https://github.com/stealthsrc/icue-edge-widgets"><img src="https://img.shields.io/badge/icue--edge--widgets-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="icue-edge-widgets" /></a>
-  <a href="https://github.com/stealthsrc/arklay-bot"><img src="https://img.shields.io/badge/arklay--bot-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="arklay-bot" /></a>
-</p>
+### Data, OSINT & gaming — pipelines and automation
 
-**Data, OSINT & gaming** — pipelines and automation
-
-<p>
-  <a href="https://github.com/stealthsrc/osint-terrain"><img src="https://img.shields.io/badge/osint--terrain-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="osint-terrain" /></a>
-  <a href="https://github.com/stealthsrc/Cruise"><img src="https://img.shields.io/badge/Cruise-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="Cruise" /></a>
-  <a href="https://github.com/stealthsrc/vine-scraper"><img src="https://img.shields.io/badge/vine--scraper-0D1117?style=flat-square&logo=github&logoColor=FF3333" alt="vine-scraper" /></a>
-</p>
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [**osint-terrain**](https://github.com/stealthsrc/osint-terrain) | Retrospective OSINT terrain-analysis pipeline, provenance-first open data. | ![](https://img.shields.io/github/stars/stealthsrc/osint-terrain?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**Cruise**](https://github.com/stealthsrc/Cruise) | AFK auto-farm for Forza Horizon EventLab — telemetry, stuck recovery, Discord RPC. | ![](https://img.shields.io/github/stars/stealthsrc/Cruise?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**vine-scraper**](https://github.com/stealthsrc/vine-scraper) | Amazon Vine FR poller — Discord alerts, macOS/Windows. | ![](https://img.shields.io/github/stars/stealthsrc/vine-scraper?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stealthsrc&bg_color=010409&color=FF3333&line=FF3333&point=FFFFFF&area=true&area_color=330000&hide_border=true&radius=8&height=300" alt="Contribution graph" />
 
 ```text
 quiet tools - useful systems - clear signal

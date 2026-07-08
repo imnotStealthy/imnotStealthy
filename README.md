@@ -25,6 +25,8 @@
 </div>
 
 > I design automated, AI-assisted workflows that help business teams gain clarity, reliability and efficiency — MCP servers, agent configs, and quiet tools that turn messy processes into dependable systems.
+>
+> Most of this was pair-programmed with Claude Code. I set the constraints, it burns the tokens — I know exactly how many, because I built [tokenscope](https://github.com/stealthsrc/tokenscope) to watch it do it.
 
 ---
 
@@ -112,11 +114,21 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 
 ---
 
+## Field notes
+
+- The agents write the code. I write the rules they break, then the rules that stop them breaking them. That second file is longer.
+- I built a token tracker, a context memory, a security skill and two Discord presences for my AI tools. The tools now have better observability than most production systems I've seen.
+- `quiet tools` is a design philosophy, not a description of my Discord notifications.
+
+---
+
 <div align="center">
 
 ```text
 quiet tools - useful systems - clear signal
 ```
+
+<sub>README co-written with Claude Code. It insisted on this footnote. I let it have this one.</sub>
 
 <p>
   

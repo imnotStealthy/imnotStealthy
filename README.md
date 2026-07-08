@@ -16,6 +16,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=FF3333&center=true&vCenter=true&width=640&height=42&lines=AI+automation;Business+systems;Digital+transformation;MCP+servers+%26+agent+ops" alt="What I build" />
 
 <p>
+  
   <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-010409?style=flat-square&labelColor=010409&color=FF0000" alt="Site" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%C3%97%20Business-010409?style=flat-square&labelColor=010409&color=FF3333" alt="Focus" />
   <a href="https://github.com/stealthsrc?tab=followers"><img src="https://img.shields.io/github/followers/stealthsrc?style=flat-square&labelColor=010409&color=FF3333&logo=github&logoColor=white&label=Followers" alt="Followers" /></a>

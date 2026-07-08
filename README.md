@@ -4,7 +4,14 @@
 
 <div align="center">
 
-# stealthsrc
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img src="assets/banner-dark.png" alt="STEALTHY" width="520">
+</picture>
+
+<br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=FF3333&center=true&vCenter=true&width=640&height=42&lines=AI+automation;Business+systems;Digital+transformation;MCP+servers+%26+agent+ops" alt="What I build" />
 

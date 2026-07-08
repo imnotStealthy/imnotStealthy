@@ -118,6 +118,17 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 </details>
 
 <details>
+<summary><b>🌐 Web apps — live on Vercel</b></summary>
+<br>
+
+| Project | What it does | Live | Stars |
+| --- | --- | --- | --- |
+| [**deadzonelab**](https://github.com/stealthsrc/deadzonelab) | Test & tune PlayStation controller deadzones on PC — drift/jitter analysis, DS4Windows & Steam Input presets. | [deadzonelab.vercel.app](https://deadzonelab.vercel.app) | ![](https://img.shields.io/github/stars/stealthsrc/deadzonelab?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+| [**nippon-study**](https://github.com/stealthsrc/nippon-study) | Nihongo Lab — open-source Japanese learning app: kana, 4000+ kanji, JLPT N5–N1, SRS flashcards. FR/EN. | [nippon-study.vercel.app](https://nippon-study.vercel.app) | ![](https://img.shields.io/github/stars/stealthsrc/nippon-study?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+
+</details>
+
+<details>
 <summary><b>📡 Data, OSINT & gaming — pipelines and automation</b></summary>
 <br>
 

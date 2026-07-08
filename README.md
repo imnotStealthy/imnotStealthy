@@ -26,7 +26,7 @@
 
 > I design automated, AI-assisted workflows that help business teams gain clarity, reliability and efficiency — MCP servers, agent configs, and quiet tools that turn messy processes into dependable systems.
 >
-> Most of this was pair-programmed with Claude Code. I set the constraints, it burns the tokens — I know exactly how many, because I built [tokenscope](https://github.com/stealthsrc/tokenscope) to watch it do it.
+> Most of this was pair-programmed with Claude Code, OpenAI Codex and Google Antigravity. I set the constraints, they burn the tokens — I know exactly how many, because I built [tokenscope](https://github.com/stealthsrc/tokenscope) to watch them do it.
 
 ---
 
@@ -118,7 +118,22 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 
 - The agents write the code. I write the rules they break, then the rules that stop them breaking them. That second file is longer.
 - I built a token tracker, a context memory, a security skill and two Discord presences for my AI tools. The tools now have better observability than most production systems I've seen.
+- Three agents on the payroll — Claude Code, Codex, Antigravity. They don't know about each other. [gemini-mcp-connect](https://github.com/stealthsrc/gemini-mcp-connect) exists so they can argue.
 - `quiet tools` is a design philosophy, not a description of my Discord notifications.
+
+## The machine
+
+The rig that runs the agents (and occasionally a game, when the context windows allow it):
+
+| Part | Spec |
+| --- | --- |
+| CPU | AMD Ryzen 7 9800X3D |
+| GPU | Gigabyte GeForce RTX 5070 Ti AERO 16GB GDDR7 |
+| Memory | Lexar ARES RGB 32GB (2×16) DDR5-6400 CL32 |
+| Motherboard | GIGABYTE AORUS B650E **STEALTH ICE** — it was never really a choice |
+| Cooling | Corsair iCUE Link Titan 360 RX — monitored by [icue-edge-widgets](https://github.com/stealthsrc/icue-edge-widgets), naturally |
+| Storage | 2× WD SN7100 2TB · Samsung 970 EVO Plus 2TB · WD SA500 4TB |
+| Case / PSU | Corsair 4000D Frame White · ASUS ROG Strix 1000W Platinum |
 
 ---
 

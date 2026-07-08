@@ -75,7 +75,9 @@
 
 MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 
-### MCP servers — connect AI agents to real systems
+<details open>
+<summary><b>🔌 MCP servers — connect AI agents to real systems</b></summary>
+<br>
 
 | Project | What it does | Stars |
 | --- | --- | --- |
@@ -86,7 +88,11 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 | [**gemini-mcp-connect**](https://github.com/stealthsrc/gemini-mcp-connect) | Drive Claude Code with a Google Gemini brain via MCP. | ![](https://img.shields.io/github/stars/stealthsrc/gemini-mcp-connect?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**codex-discord-mcp**](https://github.com/stealthsrc/codex-discord-mcp) | Discord bot + MCP bridge for the Codex CLI. | ![](https://img.shields.io/github/stars/stealthsrc/codex-discord-mcp?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
-### Agent ops, skills & guides — focused, cost-efficient AI
+</details>
+
+<details>
+<summary><b>🧠 Agent ops, skills & guides — focused, cost-efficient AI</b></summary>
+<br>
 
 | Project | What it does | Stars |
 | --- | --- | --- |
@@ -97,7 +103,11 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 | [**caveman-lang**](https://github.com/stealthsrc/caveman-lang) | Token survival protocol — cut LLM output waste 60–90%. | ![](https://img.shields.io/github/stars/stealthsrc/caveman-lang?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**agentic-coding-FR**](https://github.com/stealthsrc/agentic-coding-FR) | Hands-on French guide to Claude Code & Codex. | ![](https://img.shields.io/github/stars/stealthsrc/agentic-coding-FR?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
-### Presence, bots & widgets — desktop & hardware
+</details>
+
+<details>
+<summary><b>🖥️ Presence, bots & widgets — desktop & hardware</b></summary>
+<br>
 
 | Project | What it does | Stars |
 | --- | --- | --- |
@@ -105,12 +115,18 @@ MCP servers, agent-ops tooling and quiet automations. ⭐ counts are live.
 | [**codex-rpc**](https://github.com/stealthsrc/codex-rpc) | Native TS/Tauri/Rust Discord Rich Presence for the Codex CLI. | ![](https://img.shields.io/github/stars/stealthsrc/codex-rpc?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**icue-edge-widgets**](https://github.com/stealthsrc/icue-edge-widgets) | Corsair iCUE widgets for XENEON EDGE / Titan RX — Spotify, ISS, dashboards. | ![](https://img.shields.io/github/stars/stealthsrc/icue-edge-widgets?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 
-### Data, OSINT & gaming — pipelines and automation
+</details>
+
+<details>
+<summary><b>📡 Data, OSINT & gaming — pipelines and automation</b></summary>
+<br>
 
 | Project | What it does | Stars |
 | --- | --- | --- |
 | [**osint-terrain**](https://github.com/stealthsrc/osint-terrain) | Retrospective OSINT terrain-analysis pipeline, provenance-first open data. | ![](https://img.shields.io/github/stars/stealthsrc/osint-terrain?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
 | [**Cruise**](https://github.com/stealthsrc/Cruise) | AFK auto-farm for Forza Horizon EventLab — telemetry, stuck recovery, Discord RPC. | ![](https://img.shields.io/github/stars/stealthsrc/Cruise?style=flat-square&label=&color=FF3333&labelColor=0D1117) |
+
+</details>
 
 ---
 

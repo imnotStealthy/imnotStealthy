@@ -19,9 +19,8 @@
   
   <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-010409?style=flat-square&labelColor=010409&color=FF0000" alt="Site" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%C3%97%20Business-010409?style=flat-square&labelColor=010409&color=FF3333" alt="Focus" />
-  <a href="https://github.com/stealthsrc?tab=followers"><img src="https://img.shields.io/github/followers/stealthsrc?style=flat-square&labelColor=010409&color=FF3333&logo=github&logoColor=white&label=Followers" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=stealthsrc&style=flat-square&color=FF0000&label=Profile+views" alt="Profile views" />
 </p>
+
 
 </div>
 

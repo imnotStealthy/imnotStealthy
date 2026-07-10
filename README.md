@@ -163,7 +163,7 @@ The rig that runs the agents (and occasionally a game, when the context windows 
 | --- | --- |
 | CPU | AMD Ryzen 7 9800X3D |
 | GPU | Gigabyte GeForce RTX 5070 Ti AERO 16GB GDDR7 |
-| Memory | Lexar ARES RGB 32GB (2×16) DDR5-6400 CL32 |
+| Memory | HyperX FURY Beast RGB 64GB (2×32) DDR5-6400 CL32 |
 | Motherboard | GIGABYTE AORUS B650E **STEALTH ICE** — it was never really a choice |
 | Cooling | Corsair iCUE Link Titan 360 RX — monitored by [icue-edge-widgets](https://github.com/stealthsrc/icue-edge-widgets), naturally |
 | Storage | 2× WD SN7100 2TB · Samsung 970 EVO Plus 2TB · WD SA500 4TB |

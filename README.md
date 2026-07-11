@@ -22,7 +22,6 @@
   <a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/Twitch-stealthylabs-9146FF?style=flat-square&logo=twitch&logoColor=white&labelColor=010409" alt="Twitch" /></a>
 </p>
 
-
 </div>
 
 > I design automated, AI-assisted workflows that help business teams gain clarity, reliability and efficiency — MCP servers, agent configs, and quiet tools that turn messy processes into dependable systems.

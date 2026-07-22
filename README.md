@@ -1,181 +1,144 @@
-<!-- ╭──────────────────────────────────────────────────────────╮ -->
-<!-- │  stealthsrc · profile README                          │ -->
-<!-- ╰──────────────────────────────────────────────────────────╯ -->
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img src="assets/banner-dark.png" alt="STEALTHY" width="520">
+  <source media="(max-width: 600px)" srcset="assets/control-room-mobile.svg" />
+  <img src="assets/control-room.svg" alt="Stealthy Control Room — messy input, agents and MCP, quiet tools, clear signal" width="100%" />
 </picture>
 
-<br>
-<br>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=FF3333&center=true&vCenter=true&width=640&height=42&lines=AI+automation+for+business+teams;MCP+servers+%26+agent+ops;Token+economics+%26+observability;Quiet+tools%2C+clear+signal" alt="What I build" />
+<a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/WEB-stealthylabs.eu-FF6B6B?style=for-the-badge&labelColor=111111" alt="Stealthy Labs website" /></a>
 
-<p>
-  
-  <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-010409?style=flat-square&labelColor=010409&color=FF0000" alt="Site" /></a>
-  
-  <a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/Twitch-stealthylabs-9146FF?style=flat-square&logo=twitch&logoColor=white&labelColor=010409" alt="Twitch" /></a>
-</p>
+
+<a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/TWITCH-stealthylabs-FFD84D?style=for-the-badge&labelColor=111111" alt="StealthyLabs on Twitch" /></a>
 
 </div>
 
-> I design automated, AI-assisted workflows that help business teams gain clarity, reliability and efficiency — MCP servers, agent configs, and quiet tools that turn messy processes into dependable systems.
+> ### `MISSION // MAKE THE MESS BORING`
 >
-> Most of this was pair-programmed with Claude Code, OpenAI Codex and Google Antigravity. I set the constraints, they burn the tokens — I know exactly how many, because I built [tokenscope](https://github.com/stealthsrc/tokenscope) to watch them do it.
+> I design automated, AI-assisted workflows that turn messy business processes into dependable systems — MCP servers, agent infrastructure, observability and local-first desktop tools.
+>
+> **Quiet tools. Useful systems. Clear signal.**
 
----
+`FOCUS: AI × BUSINESS` · `MODE: LOCAL-FIRST` · `BASE: [location removed], FR` · `UPTIME: CAFFEINE-BOUND`
 
-## Flagships
+## `01 // FLAGSHIP SYSTEMS`
 
-| | | |
-| --- | --- | --- |
-| 📊 [**tokenscope**](https://github.com/stealthsrc/tokenscope) | Local-first token-usage & cost tracker for Claude Code and Codex — tray app + React/FastAPI dashboard, per-project & per-model cost, live quotas, no telemetry. | `Python` `React` |
-| 📈 [**powerbi-mcp-local**](https://github.com/stealthsrc/powerbi-mcp-local) | MCP server for Power BI Desktop — Excel, Power Query, semantic model & visual automation. The bridge between agents and the BI stack business teams actually use. | `Python` `MCP` |
-| 🛰️ [**claude-rpc**](https://github.com/stealthsrc/claude-rpc) | Native Tauri/Rust Discord Rich Presence for Claude Code & Desktop — tray controls, usage limits, RPC customization. | `Rust` `Tauri` |
+> ### 📊 `01 / TOKEN OBSERVABILITY` — [tokenscope](https://github.com/stealthsrc/tokenscope)
+>
+> Local-first usage and subscription tracker for Claude Code and Codex. Costs, quotas and budgets — without telemetry.
+>
+> `Python` `React` `FastAPI`
 
-## More work
+> ### 📈 `02 / BUSINESS DATA BRIDGE` — [powerbi-mcp-local](https://github.com/stealthsrc/powerbi-mcp-local)
+>
+> MCP server for Power BI Desktop: Excel, Power Query, semantic models and visual automation.
+>
+> `Python` `MCP` `Power BI`
+
+> ### 🛰️ `03 / DESKTOP SIGNAL` — [claude-rpc](https://github.com/stealthsrc/claude-rpc)
+>
+> Native Discord Rich Presence for Claude Code and Desktop, with tray controls and usage limits.
+>
+> `Rust` `Tauri` `RPC`
+
+## `02 // PROJECT RACKS`
 
 <details>
-<summary><b>🔌 MCP servers — connect AI agents to real systems</b></summary>
-<br>
+<summary><b>🔌 RACK A — AGENTS CONNECTED TO REAL SYSTEMS</b></summary>
+<br />
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**obsidian-mcp**](https://github.com/stealthsrc/obsidian-mcp) | Exposes an Obsidian vault as an external brain for Claude. | `Python` |
-| [**steam-mcp**](https://github.com/stealthsrc/steam-mcp) | Steam Web API for Claude Code & Gemini CLI — profiles, library, achievements, store search. | `TypeScript` |
-| [**mcp-worldoftanks**](https://github.com/stealthsrc/mcp-worldoftanks) | Wargaming.net account analytics over MCP (Claude / Gemini / Desktop). | `TypeScript` |
-| [**gemini-mcp-connect**](https://github.com/stealthsrc/gemini-mcp-connect) | Drive Claude Code with a Google Gemini brain via MCP — second opinions, plan validation, code review. | `Python` |
-| [**codex-discord-mcp**](https://github.com/stealthsrc/codex-discord-mcp) | Discord bot + MCP bridge for the Codex CLI. | `Python` |
+| Project | Signal |
+| --- | --- |
+| [**obsidian-mcp**](https://github.com/stealthsrc/obsidian-mcp) | An Obsidian vault as an external brain for Claude. |
+| [**steam-mcp**](https://github.com/stealthsrc/steam-mcp) | Steam profiles, libraries, achievements and store search over MCP. |
+| [**mcp-worldoftanks**](https://github.com/stealthsrc/mcp-worldoftanks) | Wargaming.net account analytics for Claude and Gemini. |
+| [**gemini-mcp-connect**](https://github.com/stealthsrc/gemini-mcp-connect) | A Gemini second opinion inside Claude Code. What could go wrong? |
+| [**codex-discord-mcp**](https://github.com/stealthsrc/codex-discord-mcp) | Discord bot and MCP bridge for the Codex CLI. |
 
 </details>
 
 <details>
-<summary><b>🧠 Agent ops, skills & guides — focused, cost-efficient AI</b></summary>
-<br>
+<summary><b>🧠 RACK B — AGENT OPS, MEMORY & GUARDRAILS</b></summary>
+<br />
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**agentops-config-toolkit**](https://github.com/stealthsrc/agentops-config-toolkit) | Compact config files keeping Claude Code, Gemini CLI & Codex focused and cheap. | `Markdown` |
-| [**remnant**](https://github.com/stealthsrc/remnant) | Local-first persistent context memory for Claude Code, Codex & Gemini CLI. | `Markdown` |
-| [**security-hardening**](https://github.com/stealthsrc/security-hardening) | Defensive AppSec & AI-agent security skill — OWASP, MCP security, prompt injection, threat modeling. | `Python` |
-| [**caveman-lang**](https://github.com/stealthsrc/caveman-lang) | Token survival protocol — cut LLM output waste 60–90%. | `Markdown` |
-| [**prompting-evaluator**](https://github.com/stealthsrc/prompting-evaluator) | Evaluate, score & optimize prompts via Ollama, Gemini or Claude. | `Python` |
-| [**agentic-coding-FR**](https://github.com/stealthsrc/agentic-coding-FR) 🇫🇷 | Hands-on French guide to Claude Code & Codex. | `Docs` |
-| [**ai-edu-skills-FR**](https://github.com/stealthsrc/ai-edu-skills-FR) 🇫🇷 | ChatGPT & Claude skills for French academic writing, lycée → master. | `Python` |
-
-</details>
-
-<details>
-<summary><b>🖥️ Presence, bots & widgets — desktop & hardware</b></summary>
-<br>
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**codex-rpc**](https://github.com/stealthsrc/codex-rpc) | Native TS/Tauri/Rust Discord Rich Presence for the Codex CLI. | `TypeScript` `Rust` |
-| [**icue-edge-widgets**](https://github.com/stealthsrc/icue-edge-widgets) | Corsair iCUE widgets for XENEON EDGE / Titan RX — Spotify, ISS, dashboards. | `JavaScript` |
+| Project | Signal |
+| --- | --- |
+| [**agentops-config-toolkit**](https://github.com/stealthsrc/agentops-config-toolkit) | Compact configs that keep coding agents focused and cheap. |
+| [**remnant**](https://github.com/stealthsrc/remnant) | Local-first persistent context for Claude Code, Codex and Gemini CLI. |
+| [**security-hardening**](https://github.com/stealthsrc/security-hardening) | Defensive AppSec and AI-agent security skill. |
+| [**caveman-lang**](https://github.com/stealthsrc/caveman-lang) | Token survival protocol: less output, same signal. |
+| [**prompting-evaluator**](https://github.com/stealthsrc/prompting-evaluator) | Evaluate and optimize prompts with local or hosted models. |
+| [**agentic-coding-FR**](https://github.com/stealthsrc/agentic-coding-FR) | Hands-on French guide to Claude Code and Codex. |
+| [**ai-edu-skills-FR**](https://github.com/stealthsrc/ai-edu-skills-FR) | ChatGPT and Claude skills for French academic writing. |
 
 </details>
 
 <details>
-<summary><b>🌐 Web apps — live on Vercel</b></summary>
-<br>
+<summary><b>🧪 RACK C — DESKTOP TOOLS, LIVE LABS & FIELD TESTS</b></summary>
+<br />
 
-| Project | What it does | Live |
-| --- | --- | --- |
-| **Deadzone Lab** | Test & tune PlayStation controller deadzones on PC — drift/jitter analysis, DS4Windows & Steam Input presets. | [deadzonelab.vercel.app](https://deadzonelab.vercel.app) |
-| **Nihongo Lab** | Open-source Japanese learning app: kana, 4000+ kanji, JLPT N5–N1, SRS flashcards. FR/EN. | [nippon-study.vercel.app](https://nippon-study.vercel.app) |
+| Project | Signal |
+| --- | --- |
+| [**codex-rpc**](https://github.com/stealthsrc/codex-rpc) | Native TypeScript/Tauri/Rust Rich Presence for Codex. |
+| [**icue-edge-widgets**](https://github.com/stealthsrc/icue-edge-widgets) | Spotify, ISS and dashboard widgets for Corsair XENEON EDGE. |
+| [**Deadzone Lab**](https://deadzonelab.vercel.app) | Test and tune PlayStation controller deadzones on PC. |
+| [**Nihongo Lab**](https://nippon-study.vercel.app) | Japanese learning from kana to JLPT N1, with SRS. FR/EN. |
+| [**osint-terrain**](https://github.com/stealthsrc/osint-terrain) | Provenance-first retrospective terrain analysis. |
+| [**Cruise**](https://github.com/stealthsrc/Cruise) | Forza EventLab automation with telemetry and stuck recovery. |
+| [**pitwall**](https://github.com/stealthsrc/pitwall) | Forza telemetry overlay for OBS and transparent desktop HUDs. |
 
 </details>
+
+## `03 // PATCH PANEL`
+
+**LANGUAGES + DATA**
+
+<kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Rust</kbd> <kbd>SQL</kbd> <kbd>PowerShell</kbd> <kbd>VBA</kbd> <kbd>Power BI</kbd> <kbd>Excel</kbd>
+
+**AGENTS + CONTROL**
+
+<kbd>Claude</kbd> <kbd>Anthropic SDK</kbd> <kbd>Codex</kbd> <kbd>Gemini</kbd> <kbd>Cursor</kbd> <kbd>MCP</kbd> <kbd>Prompt evals</kbd> <kbd>Agent memory</kbd> <kbd>AppSec</kbd>
+
+**SHIP + OBSERVE**
+
+<kbd>Tauri</kbd> <kbd>React</kbd> <kbd>FastAPI</kbd> <kbd>Acceptance tests</kbd> <kbd>Agile/Scrum</kbd> <kbd>Documentation</kbd> <kbd>Change management</kbd>
+
+## `04 // OPERATOR LOG`
+
+> **LOG 01** — The agents write the code. I write the rules they break, then the rules that stop them breaking them. The second file is longer.
+
+> **LOG 02** — The tools have better observability than most production systems I've seen. This is either reassuring or deeply concerning.
+
+> **LOG 03** — Claude Code, Codex and Antigravity don't know about each other. [gemini-mcp-connect](https://github.com/stealthsrc/gemini-mcp-connect) exists so they can argue.
 
 <details>
-<summary><b>📡 Data, OSINT & gaming — pipelines and automation</b></summary>
-<br>
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**osint-terrain**](https://github.com/stealthsrc/osint-terrain) | Retrospective OSINT terrain-analysis pipeline, provenance-first open data. | `Python` |
-| [**Cruise**](https://github.com/stealthsrc/Cruise) | AFK auto-farm for Forza Horizon EventLab — telemetry, stuck recovery, Discord RPC. | `Python` |
-| [**pitwall**](https://github.com/stealthsrc/pitwall) | Forza Horizon telemetry overlay — OBS Browser Source + transparent desktop HUD, broadcast-style skins. | `JavaScript` |
-
-</details>
-
----
-
-## Tech stack
-
-**Languages & data**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PowerShell-0D1117?style=flat-square" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/VBA-0D1117?style=flat-square" alt="VBA" />
-  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square" alt="Excel" />
-</p>
-
-**AI & agents**
-
-<p>
-  <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Anthropic%20SDK-0D1117?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic SDK" />
-  <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-0D1117?style=flat-square" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Tauri-0D1117?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-</p>
-
-**Methods** — Agile/Scrum · acceptance testing · documentation · change management
-
----
-
-## GitHub at a glance
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=stealthsrc&hide_border=false&background=010409&border=30363D&stroke=30363D&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=8B949E&dates=484F58&currStreakNum=C9D1D9&sideNums=C9D1D9&excludeDaysLabel=484F58" alt="GitHub streak" />
-
-</div>
-
----
-
-## Field notes
-
-- The agents write the code. I write the rules they break, then the rules that stop them breaking them. That second file is longer.
-- I built a token tracker, a context memory, a security skill and two Discord presences for my AI tools. The tools now have better observability than most production systems I've seen.
-- Three agents on the payroll — Claude Code, Codex, Antigravity. They don't know about each other. [gemini-mcp-connect](https://github.com/stealthsrc/gemini-mcp-connect) exists so they can argue.
-- `quiet tools` is a design philosophy, not a description of my Discord notifications.
-
-## The machine
-
-The rig that runs the agents (and occasionally a game, when the context windows allow it):
+<summary><b>🖥️ WORKSTATION SPEC — THE BOX RUNNING THE AGENTS</b></summary>
+<br />
 
 | Part | Spec |
 | --- | --- |
-| CPU | AMD Ryzen 7 9800X3D |
-| GPU | Gigabyte GeForce RTX 5070 Ti AERO 16GB GDDR7 |
-| Memory | HyperX FURY Beast RGB 64GB (2×32) DDR5-6400 CL32 |
-| Motherboard | GIGABYTE AORUS B650E **STEALTH ICE** — it was never really a choice |
-| Cooling | Corsair iCUE Link Titan 360 RX — monitored by [icue-edge-widgets](https://github.com/stealthsrc/icue-edge-widgets), naturally |
+| CPU / GPU | AMD Ryzen 7 9800X3D · Gigabyte RTX 5070 Ti AERO 16GB |
+| Memory | HyperX FURY Beast RGB 64GB DDR5-6400 CL32 |
+| Board / cooling | GIGABYTE AORUS B650E **STEALTH ICE** · Corsair iCUE Link Titan 360 RX |
 | Storage | 2× WD SN7100 2TB · Samsung 970 EVO Plus 2TB · WD SA500 4TB |
 | Case / PSU | Corsair 4000D Frame White · ASUS ROG Strix 1000W Platinum |
 
----
+</details>
+
+## `05 // LIVE SIGNAL`
 
 <div align="center">
 
-```text
-quiet tools - useful systems - clear signal
-```
+<img src="https://streak-stats.demolab.com?user=stealthsrc&amp;hide_border=false&amp;background=FFF7E8&amp;border=111111&amp;stroke=111111&amp;ring=FF6B6B&amp;fire=FF6B6B&amp;currStreakLabel=111111&amp;sideLabels=111111&amp;dates=555555&amp;currStreakNum=111111&amp;sideNums=111111&amp;excludeDaysLabel=555555" alt="GitHub contribution streak" width="560" />
 
-<sub>README co-written with Claude Code. It insisted on this footnote. I let it have this one.</sub>
+<br />
+<br />
+
+<b>QUIET TOOLS&nbsp;&nbsp;/&nbsp;&nbsp;USEFUL SYSTEMS&nbsp;&nbsp;/&nbsp;&nbsp;CLEAR SIGNAL</b>
+
+<br />
+
+<sub>Humans set constraints. Agents burn tokens. <a href="https://github.com/stealthsrc/tokenscope">tokenscope</a> keeps the receipts.</sub>
 
 </div>

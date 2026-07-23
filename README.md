@@ -20,7 +20,14 @@
 >
 > **Quiet tools. Useful systems. Clear signal.**
 
-`FOCUS: AI × BUSINESS` · `MODE: LOCAL-FIRST` · `BASE: [location removed], FR` · `UPTIME: CAFFEINE-BOUND`
+<div align="center">
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/operator-id-mobile.svg" />
+  <img src="assets/operator-id.svg" alt="stealthsrc operator card with an abstract Stealthy signal mark, based in [location removed] and building local-first AI business systems" width="100%" />
+</picture>
+
+</div>
 
 ## `01 // FLAGSHIP SYSTEMS`
 
@@ -41,6 +48,15 @@
 > Native Discord Rich Presence for Claude Code and Desktop, with tray controls and usage limits.
 >
 > `Rust` `Tauri` `RPC`
+
+<div align="center">
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/project-switchboard-mobile.svg" />
+  <img src="assets/project-switchboard.svg" alt="Stealthy project switchboard linking observability, business data, MCP servers, guardrails, desktop tools and field labs" width="100%" />
+</picture>
+
+</div>
 
 ## `02 // PROJECT RACKS`
 

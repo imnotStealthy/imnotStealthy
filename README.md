@@ -14,11 +14,9 @@
 
 </div>
 
-> ### `MISSION // MAKE THE MESS BORING`
+> ### `PROFILE`
 >
-> I design automated, AI-assisted workflows that turn messy business processes into dependable systems — MCP servers, agent infrastructure, observability and local-first desktop tools.
->
-> **Quiet tools. Useful systems. Clear signal.**
+> I build automation workflows, MCP servers, agent infrastructure, observability tools, and local desktop applications.
 
 <div align="center">
 
@@ -29,7 +27,7 @@
 
 </div>
 
-## `01 // FLAGSHIP SYSTEMS`
+## `01 // SELECTED PROJECTS`
 
 > ### 📊 `01 / TOKEN OBSERVABILITY` — [tokenscope](https://github.com/stealthsrc/tokenscope)
 >
@@ -66,10 +64,10 @@
 
 | Project | Signal |
 | --- | --- |
-| [**obsidian-mcp**](https://github.com/stealthsrc/obsidian-mcp) | An Obsidian vault as an external brain for Claude. |
+| [**obsidian-mcp**](https://github.com/stealthsrc/obsidian-mcp) | MCP tools for reading, searching, and writing an Obsidian vault. |
 | [**steam-mcp**](https://github.com/stealthsrc/steam-mcp) | Steam profiles, libraries, achievements and store search over MCP. |
 | [**mcp-worldoftanks**](https://github.com/stealthsrc/mcp-worldoftanks) | Wargaming.net account analytics for Claude and Gemini. |
-| [**gemini-mcp-connect**](https://github.com/stealthsrc/gemini-mcp-connect) | A Gemini second opinion inside Claude Code. What could go wrong? |
+| [**gemini-mcp-connect**](https://github.com/stealthsrc/gemini-mcp-connect) | Gemini review tools exposed inside Claude Code through MCP. |
 | [**codex-discord-mcp**](https://github.com/stealthsrc/codex-discord-mcp) | Discord bot and MCP bridge for the Codex CLI. |
 
 </details>
@@ -80,11 +78,11 @@
 
 | Project | Signal |
 | --- | --- |
-| [**agentops-config-toolkit**](https://github.com/stealthsrc/agentops-config-toolkit) | Compact configs that keep coding agents focused and cheap. |
+| [**agentops-config-toolkit**](https://github.com/stealthsrc/agentops-config-toolkit) | Repository-level scope, context, and output rules for coding agents. |
 | [**remnant**](https://github.com/stealthsrc/remnant) | Local-first persistent context for Claude Code, Codex and Gemini CLI. |
 | [**security-hardening**](https://github.com/stealthsrc/security-hardening) | Defensive AppSec and AI-agent security skill. |
-| [**caveman-lang**](https://github.com/stealthsrc/caveman-lang) | Token survival protocol: less output, same signal. |
-| [**prompting-evaluator**](https://github.com/stealthsrc/prompting-evaluator) | Evaluate and optimize prompts with local or hosted models. |
+| [**caveman-lang**](https://github.com/stealthsrc/caveman-lang) | Compact-output instruction protocol for agent responses. |
+| [**prompting-evaluator**](https://github.com/stealthsrc/prompting-evaluator) | Compares prompt behavior with local or hosted models. |
 | [**agentic-coding-FR**](https://github.com/stealthsrc/agentic-coding-FR) | Hands-on French guide to Claude Code and Codex. |
 | [**ai-edu-skills-FR**](https://github.com/stealthsrc/ai-edu-skills-FR) | ChatGPT and Claude skills for French academic writing. |
 
@@ -151,10 +149,10 @@
 <br />
 <br />
 
-<b>QUIET TOOLS&nbsp;&nbsp;/&nbsp;&nbsp;USEFUL SYSTEMS&nbsp;&nbsp;/&nbsp;&nbsp;CLEAR SIGNAL</b>
+<b>stealthsrc&nbsp;&nbsp;/&nbsp;&nbsp;PROJECT INDEX&nbsp;&nbsp;/&nbsp;&nbsp;[location removed]</b>
 
 <br />
 
-<sub>Humans set constraints. Agents burn tokens. <a href="https://github.com/stealthsrc/tokenscope">tokenscope</a> keeps the receipts.</sub>
+<sub><a href="https://github.com/stealthsrc/tokenscope">tokenscope</a> records local Claude Code and Codex usage.</sub>
 
 </div>

@@ -9,7 +9,6 @@
 
 <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/WEB-stealthylabs.eu-FF6B6B?style=for-the-badge&labelColor=111111" alt="Stealthy Labs website" /></a>
 
-
 <a href="https://twitch.tv/stealthylabs"><img src="https://img.shields.io/badge/TWITCH-stealthylabs-FFD84D?style=for-the-badge&labelColor=111111" alt="StealthyLabs on Twitch" /></a>
 
 </div>

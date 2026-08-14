@@ -1,79 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
-  <title id="title">Stealthy Control Room</title>
-  <desc id="description">Neo-brutalist profile banner for Stealthy, an AI systems operator building quiet tools from messy inputs.</desc>
-  <defs>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="3" cy="3" r="2.5" fill="#111111" opacity="0.16" />
-    </pattern>
-    <style>
-      .display { font-family: Impact, Haettenschweiler, "Arial Black", "DejaVu Sans Condensed", sans-serif; }
-      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
-      .ink { fill: #111111; }
-      .outline { stroke: #111111; stroke-width: 5; stroke-linejoin: miter; }
-      .small { font-size: 18px; font-weight: 800; letter-spacing: 1px; }
-      .tiny { font-size: 14px; font-weight: 700; letter-spacing: 0.8px; }
-    </style>
-  </defs>
-
-  <rect width="1200" height="480" fill="#FFF7E8" />
-  <rect width="1200" height="480" fill="url(#dots)" />
-  <rect x="28" y="28" width="1148" height="428" fill="#111111" />
-  <rect x="18" y="18" width="1148" height="428" fill="#FFF7E8" class="outline" />
-
-  <!-- Status strip -->
-  <rect x="18" y="18" width="1148" height="48" fill="#FFD84D" class="outline" />
-  <text x="42" y="49" class="mono ink small">PROFILE://stealthsrc</text>
-  <circle cx="1016" cy="42" r="10" fill="#A8FF60" stroke="#111111" stroke-width="4" />
-  <text x="1036" y="49" class="mono ink small">ONLINE</text>
-
-  <!-- Identity block -->
-  <rect x="48" y="91" width="188" height="36" fill="#5BE7FF" class="outline" />
-  <text x="62" y="116" class="mono ink tiny">AI SYSTEMS OPERATOR</text>
-  <text x="55" y="236" class="display" font-size="112" font-weight="900" letter-spacing="-4" fill="#FF6B6B">STEALTHY</text>
-  <text x="48" y="228" class="display ink" font-size="112" font-weight="900" letter-spacing="-4">STEALTHY</text>
-  <text x="53" y="271" class="mono ink small">BUSINESS AUTOMATION / AGENT OPS / LOCAL-FIRST SOFTWARE</text>
-
-  <!-- Cartoon control desk -->
-  <rect x="780" y="94" width="336" height="177" fill="#111111" />
-  <rect x="770" y="84" width="336" height="177" fill="#5BE7FF" class="outline" />
-  <rect x="792" y="106" width="292" height="108" fill="#111111" stroke="#111111" stroke-width="4" />
-  <text x="813" y="134" class="mono" fill="#A8FF60" font-size="16" font-weight="700">CONTROL_ROOM.exe</text>
-  <text x="813" y="162" class="mono" fill="#FFF7E8" font-size="15">&gt; route noise --to signal</text>
-  <text x="813" y="187" class="mono" fill="#FFD84D" font-size="15">[OK] quiet tools online</text>
-  <circle cx="811" cy="236" r="8" fill="#FF6B6B" stroke="#111111" stroke-width="3" />
-  <circle cx="839" cy="236" r="8" fill="#FFD84D" stroke="#111111" stroke-width="3" />
-  <circle cx="867" cy="236" r="8" fill="#A8FF60" stroke="#111111" stroke-width="3" />
-  <path d="M935 261v21h-82v18h166v-18h-84" fill="#FFD84D" class="outline" />
-
-  <!-- Agent tokens -->
-  <rect x="730" y="230" width="66" height="58" fill="#FF6B6B" class="outline" />
-  <rect x="810" y="278" width="66" height="58" fill="#FFD84D" class="outline" />
-  <rect x="890" y="278" width="66" height="58" fill="#A8FF60" class="outline" />
-  <text x="744" y="266" class="mono ink small">CLD</text>
-  <text x="824" y="314" class="mono ink small">CDX</text>
-  <text x="904" y="314" class="mono ink small">ANT</text>
-  <path d="M796 258h20M876 307h20M956 307h82v-38" fill="none" stroke="#111111" stroke-width="5" />
-
-  <!-- Comic callout -->
-  <path d="M1022 280h125v67h-72l-18 20 2-20h-37z" fill="#FF6B6B" class="outline" />
-  <text x="1037" y="308" class="mono ink tiny">SIGNAL</text>
-  <text x="1047" y="332" class="mono ink small">&gt; NOISE</text>
-
-  <!-- Pipeline -->
-  <g transform="translate(48 358)">
-    <rect x="0" y="8" width="228" height="55" fill="#FFD84D" class="outline" />
-    <text x="22" y="43" class="mono ink small">MESSY INPUT</text>
-    <path d="M228 35h30" stroke="#111111" stroke-width="7" />
-    <path d="m249 24 14 11-14 11" fill="none" stroke="#111111" stroke-width="7" />
-    <rect x="263" y="8" width="228" height="55" fill="#FF6B6B" class="outline" />
-    <text x="283" y="43" class="mono ink small">AGENTS + MCP</text>
-    <path d="M491 35h30" stroke="#111111" stroke-width="7" />
-    <path d="m512 24 14 11-14 11" fill="none" stroke="#111111" stroke-width="7" />
-    <rect x="526" y="8" width="228" height="55" fill="#5BE7FF" class="outline" />
-    <text x="554" y="43" class="mono ink small">QUIET TOOLS</text>
-    <path d="M754 35h30" stroke="#111111" stroke-width="7" />
-    <path d="m775 24 14 11-14 11" fill="none" stroke="#111111" stroke-width="7" />
-    <rect x="789" y="8" width="281" height="55" fill="#A8FF60" class="outline" />
-    <text x="840" y="43" class="mono ink small">CLEAR SIGNAL</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">stealthsrc profile</title>
+  <desc id="description">Monochrome profile banner for local-first automation, agents, MCP and desktop tools.</desc>
+  <style>.display{font-family:Impact,Haettenschweiler,"Arial Black","DejaVu Sans Condensed",sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.o{stroke:#000;stroke-width:5;stroke-linejoin:miter}.label{font-size:18px;font-weight:800;letter-spacing:1px}.small{font-size:14px;font-weight:700;letter-spacing:.8px}</style>
+  <rect width="1200" height="360" fill="#fff"/><rect x="30" y="30" width="1140" height="300" fill="#000"/><rect x="18" y="18" width="1140" height="300" fill="#fff" class="o"/>
+  <rect x="18" y="18" width="1140" height="50" fill="#000" class="o"/><text x="42" y="51" class="mono label" fill="#fff">PROFILE://stealthsrc</text><text x="962" y="51" class="mono small" fill="#fff">MONO / LOCAL-FIRST</text>
+  <text x="52" y="142" class="display" font-size="92" letter-spacing="-3" fill="#000">stealthsrc</text><text x="55" y="174" class="mono label" fill="#000">AUTOMATION / AGENTS / MCP / DESKTOP TOOLS</text>
+  <rect x="770" y="92" width="350" height="94" fill="#000" class="o"/><text x="792" y="125" class="mono small" fill="#fff">CONTROL_ROOM.exe</text><text x="792" y="151" class="mono small" fill="#fff">&gt; route noise --to signal</text><text x="792" y="176" class="mono small" fill="#fff">[OK] quiet tools online</text>
+  <g class="mono"><rect x="52" y="236" width="246" height="48" fill="#fff" class="o"/><text x="74" y="267" class="mono label" fill="#000">INPUT</text><path d="M298 260h34m-13-11 13 11-13 11" fill="none" stroke="#000" stroke-width="5"/><rect x="332" y="236" width="246" height="48" fill="#fff" class="o"/><text x="353" y="267" class="mono label" fill="#000">AGENTS + MCP</text><path d="M578 260h34m-13-11 13 11-13 11" fill="none" stroke="#000" stroke-width="5"/><rect x="612" y="236" width="246" height="48" fill="#fff" class="o"/><text x="643" y="267" class="mono label" fill="#000">TOOLS</text><path d="M858 260h34m-13-11 13 11-13 11" fill="none" stroke="#000" stroke-width="5"/><rect x="892" y="236" width="228" height="48" fill="#000" class="o"/><text x="928" y="267" class="mono label" fill="#fff">PROOF</text></g>
+  <text x="52" y="308" class="mono small" fill="#000">QUIET SYSTEMS / CLEAR SIGNAL</text>
 </svg>
